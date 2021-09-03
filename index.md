@@ -376,27 +376,26 @@ Euromanifesto coder training,* Mannheim Centre for European Social Research*, Un
 "Comparative research methods." *Essex Summer School in Social Science Data Analysis*, 7--18 July 2008.
 
 ## Other professional activities
-External examiner of the doctoral thesis of Justyna Lisińska, "How do populist supporters engage online?", *University of Southampton*, 2021.
 
-External examiner of the doctoral thesis of Agnieszka Sztajdel, "The Post-Truth Narrative in Post-Smolensk Poland", *European University Institute*, 2019.
+### Thesis examination
+Doctoral thesis, Justyna Lisińska, "How do populist supporters engage online?", *University of Southampton*, 2021.
+Doctoral thesis, Agnieszka Sztajdel, "The Post-Truth Narrative in Post-Smolensk Poland", *European University Institute*, 2019.
 
-Member of the selection committee for the *ECPR Joint Sessions of Workshops*, 2019. 
-
-Member of the editorial advisory board of *Populism*, 2017--.
-
-Member of the editorial advisory board of *Journal of Elections, Public Opinion and Parties*, 2016--.
+### Reviewing
+Peer reviewer for *Cambridge Review of International Affairs*, *East European Politics*, *East European Politics and Societies*, *Europe-Asia Studies*, *European Journal of Political Research*, *German Politics*, *Government and Opposition*, *Journal of Elections, Public Opinion and Parties*, *Journal of Legislative Studies*, *Party Politics*, *Political Research Quarterly*, *Political Studies*, *Politics*, *Politics and Religion*, *Problems of Post-Communism*, *Representation*.
 
 External reviewer of grant bid under *SASPRO Slovak Academy of Sciences Programme*, 2015
 
+### Other
+Member of the selection committee for the *ECPR Joint Sessions of Workshops*, 2019. 
+
 Member of the questionnaire committee for the Polish National Election Study 2015 post-electoral survey, *SWPS University*, 2015.
 
-Member of the editorial advisory board of *Czech Journal of Political Science*, 2013--. 
+Member of the editorial advisory board: *Czech Journal of Political Science*, 2013--present; *Journal of Elections, Public Opinion and Parties*, 2016--present; *Populism*, 2017--present. 
 
 Member of the questionnaire committee for the CSES Slovakia 2010 post-electoral survey, *Institute of Sociology, Slovak Academy of Sciences*, 2010.
 
 Manifesto coder for the Euromanifesto project, 2009.
-
-Peer reviewer for *Cambridge Review of International Affairs*, *East European Politics*, *East European Politics and Societies*, *Europe-Asia Studies*, *European Journal of Political Research*, *German Politics*, *Government and Opposition*, *Journal of Elections, Public Opinion and Parties*, *Journal of Legislative Studies*, *Party Politics*, *Political Research Quarterly*, *Political Studies*, *Politics*, *Politics and Religion*, *Problems of Post-Communism*, *Representation*.
 
 ## Languages
 
