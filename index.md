@@ -247,7 +247,7 @@ Voting Populist or Just Voting for Populists? A Comparative Analysis of Populist
 
 A New Populist Divide? Correspondences of Supply and Demand in the 2015 Polish Parliamentary Elections. *UACES 47th Annual Conference*, Kraków, 4--6 September 2017.
 
-Voting Populist or Just Voting for Populists? A Comparative Analysis of Populist Attitudes and Vote Choice in Central and Eastern Europe. *3rd Prague Populism Conference*, Charles University, Prague, 22-23 May 2017.
+Voting Populist or Just Voting for Populists? A Comparative Analysis of Populist Attitudes and Vote Choice in Central and Eastern Europe. *3rd Prague Populism Conference*, Charles University, Prague, 22--23 May 2017.
 
 Post-communist Populist Voting. 75th Annual MPSA Conference, Chicago, 6--9 April 2017.
 
