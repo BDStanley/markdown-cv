@@ -378,7 +378,6 @@ Euromanifesto coder training,* Mannheim Centre for European Social Research*, Un
 "Comparative research methods." *Essex Summer School in Social Science Data Analysis*, 7--18 July 2008.
 
 ## Other professional activities
-
 ### Thesis examination
 Doctoral thesis, Justyna Lisińska, "How do populist supporters engage online?", *University of Southampton*, 2021.
 
