@@ -75,34 +75,34 @@ Pirro, A. L. P., & **Stanley, B**. (2021). Forging, Bending, and Breaking: Enact
 
 **Stanley, B.**, Markowski, R., & Cześnik, M. (2021). Marginalization, not mainstreaming: Explaining the failure of fringe parties in Poland. *Party Politics*, 21(1), 46-57. doi: [10.1177/1354068819863616](https://doi.org/10.1177/1354068819863616)
 
-**Stanley, B.**, & Cześnik, M. (2021). Uninformed or informed populists? The relationship between political knowledge, socio-economic status and populist attitudes in Poland. East European Politics, 1-18. doi: [10.1080/21599165.2021.1876676](https://doi.org/10.1080/21599165.2021.1876676)
+**Stanley, B.**, & Cześnik, M. (2021). Uninformed or informed populists? The relationship between political knowledge, socio-economic status and populist attitudes in Poland. *East European Politics*, 1-18. doi: [10.1080/21599165.2021.1876676](https://doi.org/10.1080/21599165.2021.1876676)
 
 `2020`
-Bill, S., & **Stanley, B.** (2020). Whose Poland is it to be? PiS and the struggle between monism and pluralism. East European Politics, 36(3), 1-17. doi: [10.1080/21599165.2020.1787161](https://doi.org/10.1080/21599165.2020.1787161)
+Bill, S., & **Stanley, B.** (2020). Whose Poland is it to be? PiS and the struggle between monism and pluralism. *East European Politics*, 36(3), 1-17. doi: [10.1080/21599165.2020.1787161](https://doi.org/10.1080/21599165.2020.1787161)
 
 `2019`
-**Stanley, B.** (2019). Backsliding Away? The Quality of Democracy in Central and Eastern Europe. Journal of Contemporary European Research, 15(4), 343-353. doi: [10.30950/jcer.v15i4.1122](https://doi.org/10.30950/jcer.v15i4.1122)
+**Stanley, B.** (2019). Backsliding Away? The Quality of Democracy in Central and Eastern Europe. *Journal of Contemporary European Research*, 15(4), 343-353. doi: [10.30950/jcer.v15i4.1122](https://doi.org/10.30950/jcer.v15i4.1122)
 
-Markowski, R., & **Stanley, B.** (2019). Poczucie politycznego sprawstwa: o determinantach i korelacjach zjawiska. Studia Politologiczne, 47(3), 11-34. doi: [10.35757/STP.2019.47.3.01](https://doi.org/10.35757/STP.2019.47.3.01)
+Markowski, R., & **Stanley, B.** (2019). Poczucie politycznego sprawstwa: o determinantach i korelacjach zjawiska. *Studia Politologiczne*, 47(3), 11-34. doi: [10.35757/STP.2019.47.3.01](https://doi.org/10.35757/STP.2019.47.3.01)
 
 `2018`
-**Stanley, B.** (2018). A New Populist Divide? Correspondences of Supply and Demand in the 2015 Polish Parliamentary Elections. East European Politics and Societies, 33(1), 17-43. doi: [10.1177/0888325418783056](https://doi.org/10.1177/0888325418783056)
+**Stanley, B.** (2018). A New Populist Divide? Correspondences of Supply and Demand in the 2015 Polish Parliamentary Elections. *East European Politics and Societies*, 33(1), 17-43. doi: [10.1177/0888325418783056](https://doi.org/10.1177/0888325418783056)
 
 `2016`
-**Stanley, B. (2016).** Confrontation by default and confrontation by design: strategic and institutional responses to Poland's populist coalition government. Democratization, 23(2), 263-282. doi: [10.1080/13510347.2015.1058782](https://doi.org/10.1080/13510347.2015.1058782)
+**Stanley, B. (2016).** Confrontation by default and confrontation by design: strategic and institutional responses to Poland's populist coalition government. *Democratization*, 23(2), 263-282. doi: [10.1080/13510347.2015.1058782](https://doi.org/10.1080/13510347.2015.1058782)
 
-Markowski, R., & **Stanley, B.** (2016). Rozłamy socjopolityczne w Polsce: Iluzja czy rzeczywistość? Studia Socjologiczne, 4(223), 17-40. 
+Markowski, R., & **Stanley, B.** (2016). Rozłamy socjopolityczne w Polsce: Iluzja czy rzeczywistość? *Studia Socjologiczne*, 4(223), 17-40. 
 
-Kwiatkowska, A., Cześnik, M., Żerkowska-Balas, M., & **Stanley, B.** (2016). Ideologiczna treść wymiaru lewica-prawica w Polsce w latach 1997-2015. Studia Socjologiczne, 4(223), 97-129. 
+Kwiatkowska, A., Cześnik, M., Żerkowska-Balas, M., & **Stanley, B.** (2016). Ideologiczna treść wymiaru lewica-prawica w Polsce w latach 1997-2015. *Studia Socjologiczne*, 4(223), 97-129. 
 
 `2014`
-**Stanley, B.** (2014). The Dynamics of Party-System Supply and Demand in Poland, 1997–2007. Cleavage Change or Shapeless Shifting? Europe-Asia Studies, 66(8), 1295-1322. doi: [10.1080/09668136.2014.939522](https://doi.org/10.1080/09668136.2014.939522)
+**Stanley, B.** (2014). The Dynamics of Party-System Supply and Demand in Poland, 1997–2007. Cleavage Change or Shapeless Shifting? *Europe-Asia Studies*, 66(8), 1295-1322. doi: [10.1080/09668136.2014.939522](https://doi.org/10.1080/09668136.2014.939522)
 
 `2011`
-**Stanley, B.** (2011). Populism, nationalism, or national populism? An analysis of Slovak voting behaviour at the 2010 parliamentary election. Communist and Post-Communist Studies, 44(4), 257-270. doi: [10.1016/j.postcomstud.2011.10.005](https://doi.org/10.1016/j.postcomstud.2011.10.005)
+**Stanley, B.** (2011). Populism, nationalism, or national populism? An analysis of Slovak voting behaviour at the 2010 parliamentary election. *Communist and Post-Communist Studies*, 44(4), 257-270. doi: [10.1016/j.postcomstud.2011.10.005](https://doi.org/10.1016/j.postcomstud.2011.10.005)
 
 `2008`
-**Stanley, B.** (2008). The thin ideology of populism. Journal of Political Ideologies, 13(1), 95-110. doi: [10.1080/13569310701822289](https://doi.org/10.1080/13569310701822289)
+**Stanley, B.** (2008). The thin ideology of populism. *Journal of Political Ideologies*, 13(1), 95-110. doi: [10.1080/13569310701822289](https://doi.org/10.1080/13569310701822289)
 
 ### Books
 
