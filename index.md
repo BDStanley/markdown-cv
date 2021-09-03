@@ -16,8 +16,8 @@ FI-00014 University of Helsinki, Finland<br/>
   <a href="http://www.helsinki.fi/geodynamics"><i class="fas fa-users"></i> www.helsinki.fi/geodynamics (group)</a><br/>
   <a href="https://github.com/davewhipp"><i class="fab fa-github"></i> davewhipp</a> - 
   <a href="https://orcid.org/0000-0001-6932-1046"><i class="ai ai-orcid"></i> 0000-0001-6932-1046</a> - 
-  <a href="https://https://publons.com/researcher/2160245/ben-stanley/"><i class="ai ai-publons"></i> David_Whipp</a> - 
-  <a href="https://twitter.com/dave_whipp"><i class="fab fa-twitter"></i> @dave_whipp</a>
+  <a href="https://https://publons.com/researcher/2160245/ben-stanley/"><i class="ai ai-publons"></i> ben-stanley</a> - 
+  <a href="https://twitter.com/BDStanley"><i class="fab fa-twitter"></i> @BDStanleyp</a>
 </div>
 
 ## Education
