@@ -111,11 +111,11 @@ Kwiatkowska, A., Cześnik, M., Żerkowska-Balas, M., & **Stanley, B.** (2016). I
 ### Book chapters
 
 `2020`
-*Stanley, B.* (2020). A Comparison of Two Polish Party Leaders: Jarosław Kaczyński and Donald Tusk. In S. Gherghina (Ed.), *Party Leaders in Eastern Europe* (pp. 171-195). doi: [10.1007/978-3-030-32025-6_8](https://doi.org/10.1007/978-3-030-32025-6_8)
+**Stanley, B.** (2020). A Comparison of Two Polish Party Leaders: Jarosław Kaczyński and Donald Tusk. In S. Gherghina (Ed.), *Party Leaders in Eastern Europe* (pp. 171-195). doi: [10.1007/978-3-030-32025-6_8](https://doi.org/10.1007/978-3-030-32025-6_8)
 
-*Stanley, B.* (2019). Working in the gaps left behind: Radical right movements in a consolidating party system. In M. Caiani & O. Cisar (Eds.), [*Radical Right ‘Movement Parties’ in Europe*](https://www.routledge.com/Radical-Right-Movement-Parties-in-Europe-1st-Edition/Caiani-Cisar/p/book/9781138566767), (pp. 168-183). London and New York: Routledge.
+**Stanley, B.** (2019). Working in the gaps left behind: Radical right movements in a consolidating party system. In M. Caiani & O. Cisar (Eds.), [*Radical Right ‘Movement Parties’ in Europe*](https://www.routledge.com/Radical-Right-Movement-Parties-in-Europe-1st-Edition/Caiani-Cisar/p/book/9781138566767), (pp. 168-183). London and New York: Routledge.
 
-Stanley, B. (2016). Defenders of the Cross. In N. Marzouki, D. McDonnell, & O. Roy (Eds.), [*Saving the People: How Populists Hijack Religion*](https://www.hurstpublishers.com/book/saving-people/), (pp. 109-128). London: Hurst Publishers.
+**Stanley, B.** (2016). Defenders of the Cross. In N. Marzouki, D. McDonnell, & O. Roy (Eds.), [*Saving the People: How Populists Hijack Religion*](https://www.hurstpublishers.com/book/saving-people/), (pp. 109-128). London: Hurst Publishers.
 
 ### Essays and reviews
 
