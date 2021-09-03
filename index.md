@@ -5,11 +5,12 @@ title: Ben Stanley's CV
 # Ben Stanley
 Associate Professor, SWPS University
 
-Institute of Seismology, Department of Geosciences and Geography<br/>
-P.O. Box 68 (Pietari Kalmin katu 5)<br/>
-FI-00014 University of Helsinki, Finland<br/>
+SWPS University<br/>
+ul. Chodakowska 19/31<br/>
+03-815 Warsaw<br/>
+Poland<br/>
 
-<a href="firstname.lastname@helsinki.fi">firstname.lastname@helsinki.fi</a> - +358 (0)2 941 51617
+<a href="bstanley@swps.edu.pl">bstanley@swps.edu.pl</a> - +48 798-814-801
 
 <div id="webaddress">
   <a href="https://benstanley.pl"><i class="fas fa-home"></i> benstanley.pl</a> - 
