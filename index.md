@@ -381,6 +381,7 @@ Euromanifesto coder training,* Mannheim Centre for European Social Research*, Un
 
 ### Thesis examination
 Doctoral thesis, Justyna Lisińska, "How do populist supporters engage online?", *University of Southampton*, 2021.
+
 Doctoral thesis, Agnieszka Sztajdel, "The Post-Truth Narrative in Post-Smolensk Poland", *European University Institute*, 2019.
 
 ### Reviewing
