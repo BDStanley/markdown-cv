@@ -302,12 +302,61 @@ Voting for Polish populist anti-liberal parties: 1997--2005. *From post-communis
 
 Populist Anti-liberal Ideology in the Polish Party System, 2001--2007. *Populism in Enlarged Europe*, Södertörn University, Stockholm 6--7 December 2007.
 
-
 ## Teaching
 
 ### Postgraduate
+`2019`
+Oral Presentations (seminar).
+
+`2017--2019`
+Professional Communications: Presentations (seminar).
+Professional Communications: Writing In Business (seminar). 
+Politics of Eastern Europe in Transition (lecture and seminar).
+
+`2012`
+Democracy in Europe (lecture), 2012.
 
 ### Undergraduate
+`2021`
+The Psychology of Prejudice (seminar).
+Populism, Nativism and the Problems of Contemporary Liberal Democracy (lecture).
+
+`2020--2021`
+Social Psychology of Conspiracy Theories (seminar).
+Academic Writing (seminar).
+The Social Psychology of Democracies in Transition (lecture).
+
+`2020`
+European Integration (lecture).
+
+`2019--2020`
+Introduction to Political Psychology (seminar).
+International Business and the Challenges of Globalization (lecture and seminar).
+
+`2016--2020`
+Introduction to International Politics (lecture).
+
+`2017--2019`
+International Relations (seminar).
+
+`2015`
+Political Systems (lecture).
+Recent Polish Political History (lecture).
+Public Opinion (lecture).
+
+`2013--2014`
+European Politics (seminar).
+
+`2013`
+Politics of Governance: Eastern Europe (lecture and seminar).
+
+`2011--2013`
+Contemporary Political Systems (seminar).
+Intellectual Property and Textual Composition (seminar).
+Regional Policy and the Structural Funds (lecture and seminar).
+
+`2011--2012`
+The Polish Party System (seminar).
 
 ## Research training and skills
 `2014`
