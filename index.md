@@ -110,13 +110,28 @@ Kwiatkowska, A., Cześnik, M., Żerkowska-Balas, M., & **Stanley, B.** (2016). I
 
 ### Book chapters
 
+`2020`
+Stanley, B. (2020). A Comparison of Two Polish Party Leaders: Jarosław Kaczyński and Donald Tusk. In S. Gherghina (Ed.), *Party Leaders in Eastern Europe* (pp. 171-195). doi: [10.1007/978-3-030-32025-6_8](https://doi.org/10.1007/978-3-030-32025-6_8)
+
+Stanley, B. (2019). Working in the gaps left behind: Radical right movements in a consolidating party system. In M. Caiani & O. Cisar (Eds.), [*Radical Right ‘Movement Parties’ in Europe*](https://www.routledge.com/Radical-Right-Movement-Parties-in-Europe-1st-Edition/Caiani-Cisar/p/book/9781138566767), (pp. 168-183). London and New York: Routledge.
+
+
 ### Essays and reviews
+
+### Works in progress
+**Stanley, B.**, "Poland", in *Europe Today: A Twenty–First Century Introduction*, 6th edition, edited by Ronald Tiersky and Erik Jones, Rowman & Littlefield Ltd. **First draft of book chapter submitted**.
+
+**Stanley, B.**, "Inconsequential Radicalism: Explaining the Non-Impact of Poland’s Eurosceptic Turn on Public Attitudes to the EU.” Paper in progress.
+
+**Stanley, B.** & Szczerbiak, A., “The Decline of the Left in Poland.” Paper in progress.
+
+Havlik, V. & **Stanley, B.**, “Not So Different After All? European Populism in Comparative Perspective.” Paper in progress.
 
 ## Grants
 
 ### In preparation
 
-Horizon 2020
+A *Horizon 2020* application for research into illiberalism in Europe.
 
 ### Current projects
 
@@ -126,10 +141,22 @@ Principal investigator, "Plemienność czy obojętność? Badanie rzeczywiście 
 `2019-2021`
 Principal investigator, "DIASPOlitic: Understanding the Political Dynamics of Émigré Communities in an Era of European Democratic Backsliding", *Norwegian Research Council, EUROPA (Europe in Transitions) A2–Values Under Pressure*, 221,880 zł.
 
+`2019-2020`
+Principal investigator, "Mierząc populizm: badanie pilotażowe mające na celu udoskonalenie istniejących pytań". ("Measuring populism: a pilot study to improve existing questions.") *Narodowe Centrum Nauki, MINIATURA 2, [2018/02/X/HS5/03339]*, 43,972 zł.
 
-## Conference activity test
+`2017-2018`
+Principal investigator, "A Survey-Based Experiment on the Relationship Between Populism and Conspiracy Theories", *SWPS University BST grant*, 26876 zł.
 
-### Organization
+`2013-2015`
+Principal investigator, "The Winner-Loser Divide? A Comparative Analysis of Voting Behaviour and Cleavage Formation in Post-Communist Party Systems (WINLOSE)". Project funded by the *Marie Curie Intra-European Fellowship* programme, a Marie Curie Action under the Seventh Framework Programme, €231,283.
+
+`2010`
+Principal investigator, "Integration versus Demarcation? A Comparative Classification of Party Appeals, Voter Preferences and Candidate Attitudes in the European Parliamentary Elections of 2009". Project conducted under the *ELECDEM Initial Training Network (ref. 238607)*, a Marie Curie Action under the Seventh Framework Programme, £68,290.
+
+
+## Conference activity
+
+### Organisation
 
 `2017`
 **Session chair**, *NetherMod 2017 - XV International Workshop on Numerical Modelling of Mantle and Lithosphere Dynamics*, Putten, Netherlands.<br/>
