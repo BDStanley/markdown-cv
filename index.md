@@ -12,14 +12,14 @@ ul. Chodakowska 19/31<br/>
 Poland<br/>
 
 <div id="webaddress">
-  <a href="bstanley@swps.edu.pl"><i class="fas fa-envelope"></i> bstanley@swps.edu.pl</a> - 
-  <a href="https://wa.me/48798814801"><i class="fas fa-phone"></i> +48 798814801</a> -
-  <a href="https://benstanley.pl"><i class="fas fa-home"></i> benstanley.pl</a> -
+  <a href="bstanley@swps.edu.pl"><i class="fas fa-envelope"></i> bstanley@swps.edu.pl</a> 
+  <a href="https://wa.me/48798814801"><i class="fas fa-phone"></i> +48 798814801</a>
+  <a href="https://benstanley.pl"><i class="fas fa-home"></i> benstanley.pl</a>
   <a href="https://twitter.com/BDStanley"><i class="fab fa-twitter"></i> @BDStanley</a> <br/>
-  <a href="https://orcid.org/0000-0001-6932-1046"><i class="ai ai-orcid"></i> 0000-0001-6932-1046</a> -
-  <a href="https://publons.com/researcher/2160245/ben-stanley/"><i class="ai ai-publons"></i> ben-stanley</a> -
+  <a href="https://orcid.org/0000-0001-6932-1046"><i class="ai ai-orcid"></i> 0000-0001-6932-1046</a>
+  <a href="https://publons.com/researcher/2160245/ben-stanley/"><i class="ai ai-publons"></i> ben-stanley</a>
   <a href="https://scholar.google.com/citations?user=8AO7H9gAAAAJ&hl=pl"><i class="ai ai-google-scholar"></i> Ben Stanley</a> -
-  <a href="https://dataverse.harvard.edu/dataverse/bdstanley"><i class="ai ai-dataverse"></i> bdstanley</a> -
+  <a href="https://dataverse.harvard.edu/dataverse/bdstanley"><i class="ai ai-dataverse"></i> bdstanley</a>
   <a href="https://github.com/BDStanley"><i class="fab fa-github"></i> BDStanley</a>
 </div>
 
