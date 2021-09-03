@@ -64,48 +64,59 @@ Poland<br/>
 
 ## Publications
 
-### Books
-
-Stanley, B. *Central and Eastern European Politics*. Textbook; under contract at *Springer* (expected publication in 2022). *
-
-<!--
-### Journal articles, in preparation
--->
-
 ### Journal articles
 
-<!-- 
-**D. M. Whipp**, I. Coutand, B. Bookhagen, and D. Grujic. Fingerprints of tectonic and erosional processes in modern river sands from the Himalaya of western Bhutan. *Journal of Geophysical Research: Earth Surface*, **In preparation**.
-
-M. Ghadimi, A. Hooper, A. Hojati Malekshah, and **D. M. Whipp**. Deformation of the Taleqan Dam, Iran, from InSAR and ground observations. *Engineering Geology*, **submitted**.
--->
-
-A. E. Rintamäki, G. Hillers, T. A. T. Vuorinen, T. Luhta, J. M. Pownall, C. Tsarsitalidou, K. Galvin, J. Keskinen, J. T. Kortström, T.-C. Lin, P. B. Mäntyniemi, K. J. Oinonen, T. J. Oksanen, P. J. Seipäjärvi, G. Taylor, M. R. Uski, A. I. Voutilainen, and **D. M. Whipp**. A seismic network to monitor the 2020 EGS stimulation in the Espoo/Helsinki area, southern Finland. *Seismological Research Letters*, **under review**.
-
-D. Grujic, M. Bernet, I. Coutand, and **D. M. Whipp**. Fast crustal cooling caused by the end of exhumation. *Geology*, **in revision**.
+Szulecki, K., Kotnarowski, M. & **Stanley, B**. Diaspora party systems as false mirrors: A comparative analysis of migrant external voting in six Central European countries. *Perspectives on Politics*, **Submitted**.
 
 `2021`
 Pirro, A. L. P., & **Stanley, B**. (2021). Forging, Bending, and Breaking: Enacting the “Illiberal Playbook” in Hungary and Poland. *Perspectives on Politics*, 1-16. doi: [10.1017/s1537592721001924](https://doi.org/10.1017/S1537592721001924)
 
-J. Schütt\* and **D. M. Whipp**. Controls on continental strain partitioning above an oblique subduction zone, Northern Andes. *Tectonics*. doi: [10.1029/2019TC005886](https://doi.org/10.1029/2019TC005886), 2020.
+**Stanley, B.**, Markowski, R., & Cześnik, M. (2021). Marginalization, not mainstreaming: Explaining the failure of fringe parties in Poland. *Party Politics*, 21(1), 46-57. doi: [10.1177/1354068819863616](https://doi.org/10.1177/1354068819863616)
 
-D. Grujic, K. Ashley, M. Coble, I. Coutand, D. Kellett, K. Larson, **D. M. Whipp**, M. Gao, and N. Whynot. Deformational temperatures across the Lesser Himalayan Sequence in eastern Bhutan and their implications for the deformation history of the Main Central Thrust. *Tectonics*. [10.1029/2019TC005914](https://doi.org/10.1029/2019TC005914), 2020.
+**Stanley, B.**, & Cześnik, M. (2021). Uninformed or informed populists? The relationship between political knowledge, socio-economic status and populist attitudes in Poland. East European Politics, 1-18. doi: [10.1080/21599165.2021.1876676](https://doi.org/10.1080/21599165.2021.1876676)
+
+`2020`
+Bill, S., & **Stanley, B.** (2020). Whose Poland is it to be? PiS and the struggle between monism and pluralism. East European Politics, 36(3), 1-17. doi: [10.1080/21599165.2020.1787161](https://doi.org/10.1080/21599165.2020.1787161)
+
+`2019`
+**Stanley, B.** (2019). Backsliding Away? The Quality of Democracy in Central and Eastern Europe. Journal of Contemporary European Research, 15(4), 343-353. doi: [10.30950/jcer.v15i4.1122](https://doi.org/10.30950/jcer.v15i4.1122)
+
+Markowski, R., & **Stanley, B.** (2019). Poczucie politycznego sprawstwa: o determinantach i korelacjach zjawiska. Studia Politologiczne, 47(3), 11-34. doi: [10.35757/STP.2019.47.3.01](https://doi.org/10.35757/STP.2019.47.3.01)
+
+`2018`
+**Stanley, B.** (2018). A New Populist Divide? Correspondences of Supply and Demand in the 2015 Polish Parliamentary Elections. East European Politics and Societies, 33(1), 17-43. doi: [10.1177/0888325418783056](https://doi.org/10.1177/0888325418783056)
+
+`2016`
+**Stanley, B. (2016).** Confrontation by default and confrontation by design: strategic and institutional responses to Poland's populist coalition government. Democratization, 23(2), 263-282. doi: [10.1080/13510347.2015.1058782](https://doi.org/10.1080/13510347.2015.1058782)
+
+Markowski, R., & **Stanley, B.** (2016). Rozłamy socjopolityczne w Polsce: Iluzja czy rzeczywistość? Studia Socjologiczne, 4(223), 17-40. 
+
+Kwiatkowska, A., Cześnik, M., Żerkowska-Balas, M., & **Stanley, B.** (2016). Ideologiczna treść wymiaru lewica-prawica w Polsce w latach 1997-2015. Studia Socjologiczne, 4(223), 97-129. 
+
+`2014`
+**Stanley, B.** (2014). The Dynamics of Party-System Supply and Demand in Poland, 1997–2007. Cleavage Change or Shapeless Shifting? Europe-Asia Studies, 66(8), 1295-1322. doi: [10.1080/09668136.2014.939522](https://doi.org/10.1080/09668136.2014.939522)
+
+`2011`
+**Stanley, B.** (2011). Populism, nationalism, or national populism? An analysis of Slovak voting behaviour at the 2010 parliamentary election. Communist and Post-Communist Studies, 44(4), 257-270. doi: [10.1016/j.postcomstud.2011.10.005](https://doi.org/10.1016/j.postcomstud.2011.10.005)
+
+`2008`
+**Stanley, B.** (2008). The thin ideology of populism. Journal of Political Ideologies, 13(1), 95-110. doi: [10.1080/13569310701822289](https://doi.org/10.1080/13569310701822289)
+
+### Books
+
+Stanley, B. *Central and Eastern European Politics*. Textbook; under contract at *Springer* (expected publication in 2022).
+
+### Book chapters
+
+
 
 ## Grants and funding
 
-*Funding includes only amounts over 5000€*
-
-### Under review
+### In preparation
 
 `2026-2026`
 **Research infrastructure funding**, *Academy of Finland*, Finland, 440 558€ (Project total: 1 735 558€). Consortium PI.<br/>
 DATA-EPOS: Modern and efficient metadata and data handling platforms for FIN-EPOS
-
-<!--
-**Academy Project**, *Academy of Finland*, Finland, 599 648€. Sole PI.<br/>
-Extracting the Record of mountain Erosion processes COntained in River Detritus (E-RECORD)
-
--->
 
 ### Research funding
 
