@@ -57,7 +57,9 @@ A. E. Rintamäki, G. Hillers, T. A. T. Vuorinen, T. Luhta, J. M. Pownall, C. Tsa
 
 D. Grujic, M. Bernet, I. Coutand, and **D. M. Whipp**. Fast crustal cooling caused by the end of exhumation. *Geology*, **in revision**.
 
-`2020`
+`2021`
+Pirro, A. L. P., & **Stanley, B**. (2021). Forging, Bending, and Breaking: Enacting the “Illiberal Playbook” in Hungary and Poland. *Perspectives on Politics*, 1-16. doi: [10.1017/s1537592721001924](https://doi:10.1017/s1537592721001924)
+
 J. Schütt\* and **D. M. Whipp**. Controls on continental strain partitioning above an oblique subduction zone, Northern Andes. *Tectonics*. doi: [10.1029/2019TC005886](https://doi.org/10.1029/2019TC005886), 2020.
 
 D. Grujic, K. Ashley, M. Coble, I. Coutand, D. Kellett, K. Larson, **D. M. Whipp**, M. Gao, and N. Whynot. Deformational temperatures across the Lesser Himalayan Sequence in eastern Bhutan and their implications for the deformation history of the Main Central Thrust. *Tectonics*. [10.1029/2019TC005914](https://doi.org/10.1029/2019TC005914), 2020.
