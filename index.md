@@ -13,7 +13,7 @@ Poland<br/>
 
 <div id="webaddress">
   <a href="bstanley@swps.edu.pl"><i class="fas fa-envelope"></i> bstanley@swps.edu.pl</a> - 
-  <a href="0048798814801"><i class="fas fa-phone"></i> +48 798-814-801</a> -
+  <a href="https://wa.me/48798814801"><i class="fas fa-phone"></i> +48 798814801</a> -
   <a href="https://benstanley.pl"><i class="fas fa-home"></i> benstanley.pl</a> -
   <a href="https://twitter.com/BDStanley"><i class="fab fa-twitter"></i> @BDStanley</a> <br/>
   <a href="https://orcid.org/0000-0001-6932-1046"><i class="ai ai-orcid"></i> 0000-0001-6932-1046</a> -
