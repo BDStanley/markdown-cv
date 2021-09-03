@@ -132,6 +132,7 @@ h1+p {
 	font-style: italic;
 	font-size: 110%;
 	margin-top: 0.5em;
+	margin-bottom: 0.5em;
 }
 
 h2 {
@@ -152,6 +153,7 @@ h3 {
 	text-align: right;
 	width: 20%;
 	color: #545454;
+	font-style: italic;
 }
 
 a {
