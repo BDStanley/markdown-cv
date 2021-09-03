@@ -376,7 +376,8 @@ Euromanifesto coder training,* Mannheim Centre for European Social Research*, Un
 "Comparative research methods." *Essex Summer School in Social Science Data Analysis*, 7--18 July 2008.
 
 ## Other professional activities
-`2019`
+External examiner of the doctoral thesis of Justyna Lisińska, "How do populist supporters engage online?", *University of Southampton*, 2021.
+
 External examiner of the doctoral thesis of Agnieszka Sztajdel, "The Post-Truth Narrative in Post-Smolensk Poland", *European University Institute*, 2019.
 
 Member of the selection committee for the *ECPR Joint Sessions of Workshops*, 2019. 
