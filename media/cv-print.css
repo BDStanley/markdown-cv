@@ -71,7 +71,7 @@ p {
 
 code {
 	font: normal normal 400;
-	font-size: 70%;
+	font-size: 90%;
 	/*line-height: 1em;*/
 	font-family: Monaco,Menlo,monospace,sans-serif;
 }
@@ -166,7 +166,7 @@ a:hover {
 	position: relative;
 	left: 25%;
 	font-family: Monaco,Menlo,monospace,sans-serif;
-	font-size: 90%;
+	font-size: 80%;
 }
 
 #webaddress a {
