@@ -14,10 +14,10 @@ FI-00014 University of Helsinki, Finland<br/>
 <div id="webaddress">
   <a href="https://davewhipp.github.io"><i class="fas fa-home"></i> davewhipp.github.io</a> - 
   <a href="http://www.helsinki.fi/geodynamics"><i class="fas fa-users"></i> www.helsinki.fi/geodynamics (group)</a><br/>
-  <a href="https://github.com/davewhipp"><i class="fab fa-github"></i> davewhipp</a> - 
+  <a href="https://github.com/BDStanley"><i class="fab fa-github"></i> BDStanley</a> - 
   <a href="https://orcid.org/0000-0001-6932-1046"><i class="ai ai-orcid"></i> 0000-0001-6932-1046</a> - 
   <a href="https://https://publons.com/researcher/2160245/ben-stanley/"><i class="ai ai-publons"></i> ben-stanley</a> - 
-  <a href="https://twitter.com/BDStanley"><i class="fab fa-twitter"></i> @BDStanleyp</a>
+  <a href="https://twitter.com/BDStanley"><i class="fab fa-twitter"></i> @BDStanley</a>
 </div>
 
 ## Education
