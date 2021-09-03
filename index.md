@@ -143,7 +143,7 @@ Kwiatkowska, A., Cześnik, M., Żerkowska-Balas, M., & **Stanley, B.** (2016). I
 **Stanley, B.** (2018). Religion, Politics and Values in Poland: Continuity and Change Since 1989. Edited by Sabrina P. Ramet and Irena Borowik. New York, NY: Palgrave Macmillan. 341 pp. $129.00 Cloth. *Politics and Religion*, 11(2), 444-448. [doi: 10.1017/S1755048317000712](https://doi.org/10.1017/S1755048317000712)
 
 `2016`
-Stanley, B. (2016). Robert Rohrschneider and Stephen Whitefield, The Strain of Representation: How Parties Represent Diverse Voters in Western and Eastern Europe, reviewed by Ben Stanley. *Party Politics*, 22(1), 137-138. [doi: 10.1177/1354068815615270](https://doi.org/10.1177/1354068815615270)
+**Stanley, B.** (2016). Robert Rohrschneider and Stephen Whitefield, The Strain of Representation: How Parties Represent Diverse Voters in Western and Eastern Europe, reviewed by Ben Stanley. *Party Politics*, 22(1), 137-138. [doi: 10.1177/1354068815615270](https://doi.org/10.1177/1354068815615270)
 
 
 ### Works in progress
