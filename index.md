@@ -117,9 +117,34 @@ Kwiatkowska, A., Cześnik, M., Żerkowska-Balas, M., & **Stanley, B.** (2016). I
 **Stanley, B.** (2019). Working in the gaps left behind: Radical right movements in a consolidating party system. In M. Caiani & O. Cisar (Eds.), [*Radical Right ‘Movement Parties’ in Europe*](https://www.routledge.com/Radical-Right-Movement-Parties-in-Europe-1st-Edition/Caiani-Cisar/p/book/9781138566767), (pp. 168-183). London and New York: Routledge.
 
 `2016`
-**Stanley, B.** (2016). Defenders of the Cross. In N. Marzouki, D. McDonnell, & O. Roy (Eds.), [*Saving the People: How Populists Hijack Religion*](https://www.hurstpublishers.com/book/saving-people/), (pp. 109-128). London: Hurst Publishers.
+**Stanley, B.** (2016). Defenders of the Cross. In N. Marzouki, D. McDonnell, & O. Roy (Eds.), [*Saving the People: How Populists Hijack Religion*](https://www.hurstpublishers.com/book/saving-people/) (pp. 109-128). London: Hurst Publishers.
+
+**Stanley, B.** (2016). The Politics of the Past in the Present: Poland’s electoral geography. In P. Cowley & R. Ford (Eds.), [*More Sex, Lies and the Ballot Box*](https://www.bitebackpublishing.com/books/more-sex-lies-and-the-ballot-box) (pp. 233-236). London: Biteback Publishing.
+
+`2015`
+**Stanley, B.** (2015). The Post-Populist Non-Crisis in Poland. In T. S. Pappas & H. Kriesi (Eds.), [*European Populism in the Shadow of the Great Recession*](http://press.ecpr.eu/book_details.asp?bookTitleID=372) (pp. 251-273). Colchester: ECPR Press.
+
+**Stanley, B.** (2015). The Polish Self-Defence party: from agrarian protest to the politics of populism, 1991-2007. In D. Strijker, G. Voerman, & I. Terluin (Eds.), [*Rural protest groups and populist political parties*](https://www.wageningenacademic.com/doi/book/10.3920/978-90-8686-807-0) (pp. 191-216): Wageningen Academic Publishers.
+
+`2014`
+**Stanley, B.** (2014). Poland 20 Years Later: The Long Arm of Transition. In R. Tiersky & E. Jones (Eds.), [*Europe Today: A Twenty-First Century Introduction*](https://rowman.com/ISBN/9781442221109/Europe-Today-A-Twenty-first-Century-Introduction-Fifth-Edition) (5 ed., pp. 257-291). Plymouth: Rowman & Littlefield Ltd.
+
+`2013`
+**Stanley, B.** (2013). Populism. In G. Claeys (Ed.), Encyclopedia of Modern Political Thought (pp. 642). [doi: 10.4135/9781452234168.n254](https://www.doi.org/10.4135/9781452234168.n254)
+
+**Stanley, B.** (2013). Poland. In S. Berglund, J. Ekman, K. Deegan-Krause, & T. Knutsen (Eds.), [*The Handbook of Political Change in Eastern Europe*](https://www.e-elgar.com/shop/the-handbook-of-political-change-in-eastern-europe-third-edition) (pp. 167-215). Cheltenham: Edward Elgar Publishing Limited.
+
+`2011`
+**Stanley, B.** (2011). Poland 20 Years Later: The Long Arm of Transition. In R. Tiersky & E. Jones (Eds.), Europe Today: A Twenty-First Century Introduction (4 ed., pp. 243-273). Plymouth: Rowman & Littlefield Ltd.
 
 ### Essays and reviews
+
+`2018`
+**Stanley, B.** (2018). Religion, Politics and Values in Poland: Continuity and Change Since 1989. Edited by Sabrina P. Ramet and Irena Borowik. New York, NY: Palgrave Macmillan. 341 pp. $129.00 Cloth. *Politics and Religion*, 11(2), 444-448. [doi: 10.1017/S1755048317000712](https://doi.org/10.1017/S1755048317000712)
+
+`2016`
+Stanley, B. (2016). Robert Rohrschneider and Stephen Whitefield, The Strain of Representation: How Parties Represent Diverse Voters in Western and Eastern Europe, reviewed by Ben Stanley. *Party Politics*, 22(1), 137-138. [doi: 10.1177/1354068815615270](https://doi.org/10.1177/1354068815615270)
+
 
 ### Works in progress
 **Stanley, B.**, "Poland", in *Europe Today: A Twenty–First Century Introduction*, 6th edition, edited by Ronald Tiersky and Erik Jones, Rowman & Littlefield Ltd. **First draft of book chapter submitted**.
@@ -143,6 +168,8 @@ Principal investigator, "Plemienność czy obojętność? Badanie rzeczywiście 
 
 `2019-2021`
 Principal investigator, "DIASPOlitic: Understanding the Political Dynamics of Émigré Communities in an Era of European Democratic Backsliding", *Norwegian Research Council, EUROPA (Europe in Transitions) A2–Values Under Pressure*, 221,880 zł.
+
+### Previous projects
 
 `2019-2020`
 Principal investigator, "Mierząc populizm: badanie pilotażowe mające na celu udoskonalenie istniejących pytań". ("Measuring populism: a pilot study to improve existing questions.") *Narodowe Centrum Nauki, MINIATURA 2, [2018/02/X/HS5/03339]*, 43,972 zł.
