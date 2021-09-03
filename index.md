@@ -180,7 +180,7 @@ Principal investigator, "Mierząc populizm: badanie pilotażowe mające na celu 
 Principal investigator, "A Survey-Based Experiment on the Relationship Between Populism and Conspiracy Theories", *SWPS University BST grant*, 26876 zł.
 
 `2013-2015`
-Principal investigator, "The Winner-Loser Divide? A Comparative Analysis of Voting Behaviour and Cleavage Formation in Post-Communist Party Systems (WINLOSE)". Project funded by the *Marie Curie Intra-European Fellowship* programme, a Marie Curie Action under the Seventh Framework Programme, €231,283.
+Principal investigator, "The Winner-Loser Divide? A Comparative Analysis of Voting Behaviour and Cleavage Formation in Post-Communist Party Systems (WINLOSE)". Project funded by *Marie Curie Intra-European Fellowship* programme, a Marie Curie Action under the Seventh Framework Programme, €231,283.
 
 `2010`
 Principal investigator, "Integration versus Demarcation? A Comparative Classification of Party Appeals, Voter Preferences and Candidate Attitudes in the European Parliamentary Elections of 2009". Project conducted under the *ELECDEM Initial Training Network (ref. 238607)*, a Marie Curie Action under the Seventh Framework Programme, £68,290.
