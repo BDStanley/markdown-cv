@@ -147,6 +147,7 @@ h2 {
 
 
 h3 {
+	font-style: italic;
 	font-size: 1em;
 	line-height: 2em; 
 	position: relative;
@@ -154,7 +155,6 @@ h3 {
 	text-align: right;
 	width: 20%;
 	color: #545454;
-	font-style: italic;
 }
 
 a {
