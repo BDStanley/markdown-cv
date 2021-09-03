@@ -203,58 +203,150 @@ Principal investigator, "Integration versus Demarcation? A Comparative Classific
 ### Presentations
 
 `2021`
-A. Rantanen\*, **D. M. Whipp**, J. S. Heinonen, M. Pütz, and L. Kaislaniemi. Influence of pulsed magmatic activity, latent heat, and partial melting on the strength of the continental crust. Geological Society of America Abstracts with Programs. Vol 52, No. 6, 2020. doi: 10.1130/abs/2020AM-358401.
+External voting, diaspora party systems & (il)liberal remittances: A comparative analysis of Central European post-accession elections. *ECPR General Conference*, virtual event, 30 August--3 September 2021.
+
+`2020`
+Populism and the Pandemic: Crisis, Technocracy and Democracy in Poland. *Populism and the Pandemic Virtual Lecture Series*, Jean Monnet EU Center for Comparative Populism, University of Wisconsin-Madison, 13 October 2020.
+
+If Migrants Chose Governments: A Comparative Analysis of Central Eastern European Diaspora Votes, *ECPR General Conference*, virtual event, 24--28 August 2020.
+
+`2019`
+Democratic Backsliding in Central and Eastern Europe: Transition to Illiberal Democracy? *TRASC: Europe--What’s Next? Transformational Leadership and Confidence Building for Young Professionals*, Georgian Institute for Strategic Studies (GISS), Tbilisi, 3--5 October 2019.
+
+Inconsequential Radicalism: Explaining the Non-Impact of Poland’s Eurosceptic Turn on Public Attitudes to the EU; Illiberal Remittances? Studying the Political Dynamics and Voting Patterns of CEE Migrants in Western Europe. *ECPR General Conference*, Wrocław, 4--7 September 2019.
+
+Dealing with the incumbency problem: designing a pilot study to improve populist attitude questions. *Comparative Populism Project closing conference*, Central European University, Budapest, 20 June 2019.
+
+Inconsequential Radicalism: Explaining the Non-Impact of Poland’s Eurosceptic Turn on Public Attitudes to the EU; Central Europe’s Illiberal Turn: Causes, Consequences and Prospects, *EUSA International Biennial Conference*, Denver, 9--11 May 2019.
+
+Conspiracy theory mentality and its socio-demographic and ideological correlates. *Workshop on "The Anatomy of Disbelief"*, Jagiellonian University, Kraków, 18 February 2019.
+
+`2018`
+Populism in spite of the people? Confronting myths about Poland’s anti-liberal turn. *Conference on "Democracy, Illiberal Democracy or Neoauthoritarianism"*, Cardinal Stefan Wyszyński University, Warsaw, 28 November 2018.
+
+The Growth of Populism in CEE? Invited lecture for the *Commission of Democracy workshop, Danish Youth Council*, Copenhagen, 26 November 2018.
+
+Populism and Democracy in Poland. Invited lecture for the *IES Abroad European Union Programme*, Warsaw, 14 September 2018.
+
+Working in the gaps left behind: radical right movement parties in a consolidating party system. *ECPR General Conference*, Hamburg, 22--25 August 2018.
+
+Brexit: Explaining Britain’s decision to leave the European Union. Invited lecture at *Collegium Civitas*, Warsaw, 26 March 2018.
+
+Voting Populist or Just Voting for Populists? A Comparative Analysis of Populist Attitudes and Vote Choice in Central and Eastern Europe. Invited lecture at the *Seminar in Politics and Society, Collegio Carlo Alberto*, Turin, 8 February 2018.
+
+`2017`
+Populist voting, or just voting for populists? A comparative analysis of attitudes and voting behaviour in Central and Eastern Europe. Invited lecture at the Advanced Research Seminar, *Centre for Baltic and East European Studies, Södertörn University*, Stockholm, 13 November 2017.
+
+Populism in Central and Eastern Europe. Invited lecture for the *Research Group in Populist Political Communication, Adam Mickiewicz University*, Poznań, 6--7 November 2017.
+
+Voting Populist or Just Voting for Populists? A Comparative Analysis of Populist Attitudes and Vote Choice in Central and Eastern Europe. *Dilemmas of Democracy Conference*, Wisła, 26--27 October 2017.
+
+Voting Populist or Just Voting for Populists? A Comparative Analysis of Populist Attitudes and Vote Choice in Central and Eastern Europe. *ECPR General Conference*, Oslo, 6--10 September 2017.
+
+A New Populist Divide? Correspondences of Supply and Demand in the 2015 Polish Parliamentary Elections. *UACES 47th Annual Conference*, Kraków, 4--6 September 2017.
+
+Voting Populist or Just Voting for Populists? A Comparative Analysis of Populist Attitudes and Vote Choice in Central and Eastern Europe. *3rd Prague Populism Conference*, Charles University, Prague, 22-23 May 2017.
+
+Post-communist Populist Voting. 75th Annual MPSA Conference, Chicago, 6--9 April 2017.
+
+`2016`
+A New Populist Divide? Correspondences of Supply and Demand in the 2015 Polish Parliamentary Elections. *Contemporary Political Parties Amid the Crisis of Democracy*, Turzno, 19–-20 October 2016.
+
+Solidarism, Liberalism and Populism: voting behaviour in the 2015 Polish Parliamentary Elections. *ECPR General Conference*, Prague, 7--10 September 2016.
+
+A new populist divide? Correspondences of supply and demand in the 2015 Polish parliamentary elections. *2nd Prague Populism Conference*, Prague, 23-24 May 2016.
+
+`2015`
+The winner-loser divide in Central and Eastern Europe: a new set of political potentials? *ECPR Joint Sessions of Workshops*, Warsaw, 29 March--2 April 2015.
+
+`2014`
+Eating the starters: The mainstreaming of populism in post-communist Poland. *ECPR General Conference*, Glasgow, 3--6 September 2014.
+
+Integration for the Winners, Demarcation for the Losers? Poland A and Poland B as a Cleavage. *APSA Annual Meeting*, Washington, D.C., 28--31 August 2014.
+
+Populism in Central and Eastern Europe. *Populism in Europe and the Americas: a cross-regional perspective*, Catholic University of Chile, Santiago, 4--5 July 2014.
+
+The Dog That Already Barked: Post-Populism Crisis in Poland. *Populism in the Shadow of the Great Recession*, European University Institute, Florence, 21-22 March 2014.
+
+`2013`
+Understanding the Palikot Movement. Invited seminar presentation at the *UCL School of Slavonic and East European Studies*, London, 4 February 2013.
+
+`2012`
+From periphery to power: the emergence of Polish populism. *Studying Europe’s Populisms by Regional Country Clusters*, European University Institute, Florence, 7 December 2012.
+
+The Thin Ideology of Populism. *Populist Political Parties in East Central Europe*, Masaryk University, Brno, 4 December 2012.
+
+No Room On The Left? The Stagnation of Poland’s Democratic Left Alliance. *The financial crisis and left politics: Parties, unions, and social movements in Eastern Europe*, Charles University, Prague, 20 November 2012.
+
+Down With the Pseudo-Elite! Populism as a Strategy for Elite Replacement in Post-Communist Poland. *International Political Science Association XXII World Congress of Political Science*, Madrid, 7--12 July 2012.
+
+The Polish Self-Defence party: from agrarian protest to the politics of populism, 1990--2007. *Rural Protest Groups and Populist Political Parties: Exploring Objectives, Activities and Relationships*, University of Groningen, 24--25 May 2012.
+
+`2011`
+Cleavage change or shapeless shifting? The dynamics of party-system supply and demand in Poland, 1997-2007. *Old Theory, New Cases, The Study of Party Politics in Central and Eastern Europe*, Södertörn University, Stockholm, 15--16 September 2011.
+
+Cleavage change or shapeless shifting? The dynamics of party-system supply and demand in Poland, 1997--2007. *ECPR General Conference*, Reykjavik, 25--27 August 2011.
+
+Eating the starters: the mainstreaming of Polish populism, 2001-2007. *18th Conference of Europeanists, Barcelona*, 20--22 June 2011.
+
+Populism, Nationalism, or National Populism? An Analysis of Slovak Voting Behaviour in the 2010 Parliamentary Elections. *CBEES Departmental Seminar*, Södertörn University, Stockholm, 4 April 2011.
+
+Change of government and the locus of politics--power shifts in post-communist Poland. *Change of government and the Locus of Politics: Power Shifts in the Baltic Sea Region*, Södertörn University, Stockholm, 13--14 January 2011.
+
+`2010`
+The Polish presidential elections, June--July 2010: background and implications. *Free Elections 20 Years After: The Splendor and Misery of the Central European Dream*, Institute for Public Affairs and International Visegrad Fund, Bratislava, 8 July 2010.
+
+Populism and its programmatic correlates in the Polish party system: a comprehensive classification. *ECPR Joint Sessions of Workshops*, Münster, 23--27 March 2010.
+
+Voting for Polish populist anti-liberal parties: 1997--2005. *From post-communism and transitology to non-teleological change: present and future research on Eastern and Central Europe*, Södertörn University, 15--16 June 2009.
+
+Populist Anti-liberal Ideology in the Polish Party System, 2001--2007. *Populism in Enlarged Europe*, Södertörn University, Stockholm 6--7 December 2007.
 
 
 ## Teaching
 
-Links: <i class="fas fa-home"></i> = course homepage, <i class="fab fa-github"></i> = course GitHub page, <i class="fab fa-youtube"></i> = course YouTube channel
+### Postgraduate
 
-### Main courses
-
-`2013-present`
-*Department of Geosciences and Geography, University of Helsinki*, Helsinki, Finland.
-
-- \- Current Topics in Global Geophysics Research
-- \- Geo-Python (with Henrikki Tenkanen and Vuokko Heikinheimo) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://geo-python.github.io"><i class="fas fa-home"></i></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/Geo-Python"><i class="fab fa-github"></i></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.youtube.com/channel/UCQ1_1hZ0A1Vic2zmWE56s2A/playlists"><i class="fab fa-youtube"></i></a>
-- \- Geodynamics &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.youtube.com/channel/UCsSTyHHQVvnGdnKbidSj94A/playlists"><i class="fab fa-youtube"></i></a>
-- \- Introduction to Lithospheric Geodynamic Modelling (with Lars Kaislaniemi) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://introgm.github.io"><i class="fas fa-home"></i></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/IntroGM"><i class="fab fa-github"></i></a>
-- \- Introduction to Quantitative Geology &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://introqg.github.io"><i class="fas fa-home"></i></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/IntroQG"><i class="fab fa-github"></i></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.youtube.com/channel/UClNYqKkR-lRWyn7jes0Khcw/videos"><i class="fab fa-youtube"></i></a>
-- \- Lithospheric Structure and Dynamics (with Ilmo Kukkonen)
-
-## Supervision
-
-### Doctoral students
-`2021-present`
-**Miisa Häkkinen**, *Department of Geosciences and Geography, University of Helsinki*, Helsinki, Finland.<br/>
-Co-supervised with Jon Pownall and Pentti Hölttä (GTK)
-
-### Bachelors theses
-`2016–2017`
-**Jennifer Hällsten**, *Department of Geosciences and Geography, University of Helsinki*, Helsinki, Finland.<br/>
-Co-supervised with Jorina Schütt
-
-### Visiting researchers
-
-`2017-present`
-**Mehrnoosh Ghadimi**, *Department of Physical Geography, University of Tehran*, Tehran, Iran.
-
+### Undergraduate
 
 ## Research training and skills
+`2014`
+"Spatial Econometrics" and "Bayesian Analysis in the Social Sciences", *Essex Summer School in Social Science Data Analysis* 4--15 August 2014.
 
-`2020`
-**Learning in Higher Education (UP1)**, *Centre for University Teaching and Learning, University of Helsinki*, Helsinki, Finland.<br/>
-Five credit introductory course for university pedagogy.
+`2010`
+"Data analysis in R." *Essex Summer School in Social Science Data Analysis*, 26 July--6 August 2010.
 
-`2019`
-**Unilead leadership program**, *Faculty of Science, University of Helsinki*, Helsinki, Finland.<br/>
-Leadership program organized by the Faculty of Science for the University of Helsinki supervisors to support them in their managerial duties and develop their leadership skills.
+"Workshop in Experimental Methods." *ELECDEM*, Brussels 28 June--2 July 2010.
 
-`2007`
-**Classroom observation**, *Center for Research on Learning and Teaching, University of Michigan*, Ann Arbor, MI, USA.<br/>
-A short course on how to conduct and share classroom observations.
+"Workshop in Electoral Survey Design." *ELECDEM*, Central European University, Budapest, 30 April--4 May 2010.
+
+`2009`
+Euromanifesto coder training,* Mannheim Centre for European Social Research*, University of Mannheim, 8--10 May 2009.
+
+`2008`
+"Comparative research methods." *Essex Summer School in Social Science Data Analysis*, 7--18 July 2008.
 
 ## Other professional activities
+`2019`
+External examiner of the doctoral thesis of Agnieszka Sztajdel, "The Post-Truth Narrative in Post-Smolensk Poland", *European University Institute*, 2019.
+
+Member of the selection committee for the *ECPR Joint Sessions of Workshops*, 2019. 
+
+Member of the editorial advisory board of *Populism*, 2017--.
+
+Member of the editorial advisory board of *Journal of Elections, Public Opinion and Parties*, 2016--.
+
+External reviewer of grant bid under *SASPRO Slovak Academy of Sciences Programme*, 2015
+
+Member of the questionnaire committee for the Polish National Election Study 2015 post-electoral survey, *SWPS University*, 2015.
+
+Member of the editorial advisory board of *Czech Journal of Political Science*, 2013--. 
+
+Member of the questionnaire committee for the CSES Slovakia 2010 post-electoral survey, *Institute of Sociology, Slovak Academy of Sciences*, 2010.
+
+Manifesto coder for the Euromanifesto project, 2009.
+
+Peer reviewer for *Cambridge Review of International Affairs*, *East European Politics*, *East European Politics and Societies*, *Europe-Asia Studies*, *European Journal of Political Research*, *German Politics*, *Government and Opposition*, *Journal of Elections, Public Opinion and Parties*, *Journal of Legislative Studies*, *Party Politics*, *Political Research Quarterly*, *Political Studies*, *Politics*, *Politics and Religion*, *Problems of Post-Communism*, *Representation*.
 
 ## Languages
 
@@ -272,4 +364,4 @@ Residence: Poland
 
 Family: Married, one child
 
-<br/>Last updated: September 2021<br/><br/>
+<br/>*Last updated: September 2021*<br/><br/>
