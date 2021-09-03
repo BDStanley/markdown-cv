@@ -41,17 +41,32 @@ Poland<br/>
 
 ## Experience
 
-`2021-present`
-**Professor**, *Department of Geosciences and Geography, University of Helsinki*, Helsinki, Finland.
+`2018-present`
+**Associate Professor**, *Centre for the Study of Democracy, SWPS University of Social Sciences and Humanities*, Warsaw, Poland.
 
+`2015-2018`
+**Assistant Professor**, *Centre for the Study of Democracy, SWPS University of Social Sciences and Humanities*, Warsaw, Poland.
+
+`2013-2015`
+**Marie Curie Intra-European Research Fellow**, *School of Law, Politics and Sociology, University of Sussex*, Brighton, United Kingdom.
+
+`2013-2015`
+**Assistant Professor**, *Faculty of History and Social Sciences, Cardinal Stefan Wyszyński University*, Warsaw, Poland.
+
+`2011`
+**Guest Researcher**, *Centre for Baltic and East European Studies, Södertörn University*, Stockholm, Sweden.
+
+`2010`
+**Marie Curie Post-Doctoral Fellow**, *Institute for Public Affairs*, Bratislava, Slovakia.
+
+`2008`
+**Graduate Teaching Assistant**, *Department of Government, The University of Essex*, Colchester, United Kingdom.
 
 ## Publications
 
-*Publication list also available [in Google Scholar](https://scholar.google.fi/citations?user=FvYhWOAAAAAJ). Asterisks indicate student lead authors.*
-
 ### Books
 
-H. Tenkanen, V. Heikinheimo, and **D. M. Whipp**. *Introduction to Python for Geographic Data Analysis*. CRC Press (expected publication in 2021). ***In progress***, online at [https://pythongis.org/](https://pythongis.org/).
+Stanley, B. *Central and Eastern European Politics*. Textbook; under contract at *Springer* (expected publication in 2022). *
 
 <!--
 ### Journal articles, in preparation
