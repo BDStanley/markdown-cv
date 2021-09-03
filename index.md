@@ -115,14 +115,16 @@ Stanley, B. *Central and Eastern European Politics*. Textbook; under contract at
 
 ### In preparation
 
-`2026-2026`
-**Research infrastructure funding**, *Academy of Finland*, Finland, 440 558€ (Project total: 1 735 558€). Consortium PI.<br/>
-DATA-EPOS: Modern and efficient metadata and data handling platforms for FIN-EPOS
+Horizon 2020
 
 ### Current projects
 
 `2021-2024`
-Principal investigator, October 2021 – October 2024: "Plemienność czy obojętność? Badanie rzeczywiście istniejących wartości demokratycznych i ich konsekwencji w Polsce" ("Partisan bias or a climate of indifference? An investigation of actually-existing democratic values and their consequences in Poland"), *National Science Center, OPUS 20*, 783,228 zł.
+Principal investigator, "Plemienność czy obojętność? Badanie rzeczywiście istniejących wartości demokratycznych i ich konsekwencji w Polsce" ("Partisan bias or a climate of indifference? An investigation of actually-existing democratic values and their consequences in Poland"), *National Science Center, OPUS 20*, 783,228 zł.
+
+`2019-2021`
+Principal investigator, "DIASPOlitic: Understanding the Political Dynamics of Émigré Communities in an Era of European Democratic Backsliding", *Norwegian Research Council, EUROPA (Europe in Transitions) A2–Values Under Pressure*, 221,880 zł.
+
 
 ## Conference activity
 
