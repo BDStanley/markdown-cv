@@ -3,6 +3,7 @@ layout: cv
 title: Ben Stanley's CV
 ---
 # Ben Stanley
+
 Associate Professor, SWPS University
 
 SWPS University<br/>
