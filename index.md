@@ -13,13 +13,15 @@ Poland<br/>
 <a href="bstanley@swps.edu.pl">bstanley@swps.edu.pl</a> - +48 798-814-801
 
 <div id="webaddress">
-  <a href="https://benstanley.pl"><i class="fas fa-home"></i> benstanley.pl</a> - 
-  <a href="https://github.com/BDStanley"><i class="fab fa-github"></i> BDStanley</a> -
+  <a href="bstanley@swps.edu.pl"><i class="fas fa-envelope"></i> bstanley@swps.edu.pl</a> - 
+  <a href="https://benstanley.pl"><i class="fas fa-home"></i> benstanley.pl</a> -
+  <a href="0048798814801"><i class="fas fa-home"></i> +48 798-814-801</a> -
   <a href="https://twitter.com/BDStanley"><i class="fab fa-twitter"></i> @BDStanley</a> <br/>
   <a href="https://orcid.org/0000-0001-6932-1046"><i class="ai ai-orcid"></i> 0000-0001-6932-1046</a> -
   <a href="https://https://publons.com/researcher/2160245/ben-stanley/"><i class="ai ai-publons"></i> ben-stanley</a> -
   <a href="https://scholar.google.com/citations?user=8AO7H9gAAAAJ&hl=pl"><i class="ai ai-google-scholar"></i> Ben Stanley</a> -
-  <a href="https://dataverse.harvard.edu/dataverse/bdstanley"><i class="ai ai-dataverse"></i> bdstanley</a>
+  <a href="https://dataverse.harvard.edu/dataverse/bdstanley"><i class="ai ai-dataverse"></i> bdstanley</a> -
+  <a href="https://github.com/BDStanley"><i class="fab fa-github"></i> BDStanley</a>
 </div>
 
 ## Education
@@ -58,7 +60,7 @@ A. E. Rintamäki, G. Hillers, T. A. T. Vuorinen, T. Luhta, J. M. Pownall, C. Tsa
 D. Grujic, M. Bernet, I. Coutand, and **D. M. Whipp**. Fast crustal cooling caused by the end of exhumation. *Geology*, **in revision**.
 
 `2021`
-Pirro, A. L. P., & **Stanley, B**. (2021). Forging, Bending, and Breaking: Enacting the “Illiberal Playbook” in Hungary and Poland. *Perspectives on Politics*, 1-16. doi: [10.1017/s1537592721001924](https://doi:10.1017/s1537592721001924)
+Pirro, A. L. P., & **Stanley, B**. (2021). Forging, Bending, and Breaking: Enacting the “Illiberal Playbook” in Hungary and Poland. *Perspectives on Politics*, 1-16. doi: [10.1017/s1537592721001924](https://doi.org/10.1017/S1537592721001924)
 
 J. Schütt\* and **D. M. Whipp**. Controls on continental strain partitioning above an oblique subduction zone, Northern Andes. *Tectonics*. doi: [10.1029/2019TC005886](https://doi.org/10.1029/2019TC005886), 2020.
 
@@ -640,12 +642,12 @@ Basic: Finnish, French, German
 
 ## Personal
 
-Birth date: 9 March 1980
+Birth date: 17th May 1979
 
-Citizenship: USA
+Citizenship: British; Irish
 
-Residence: Finland (Permanent resident)
+Residence: Poland
 
-Family: Married, two children
+Family: Married, one child
 
-<br/>Last updated: July 2021<br/><br/>
+<br/>Last updated: September 2021<br/><br/>
