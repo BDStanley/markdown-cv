@@ -127,7 +127,7 @@ Principal investigator, "Plemienność czy obojętność? Badanie rzeczywiście 
 Principal investigator, "DIASPOlitic: Understanding the Political Dynamics of Émigré Communities in an Era of European Democratic Backsliding", *Norwegian Research Council, EUROPA (Europe in Transitions) A2–Values Under Pressure*, 221,880 zł.
 
 
-## Conference activity test
+## Conference activity
 
 ### Organization
 
