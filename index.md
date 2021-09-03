@@ -188,9 +188,16 @@ Principal investigator, "Integration versus Demarcation? A Comparative Classific
 
 ### Organisation
 
-`2017`
-**Session chair**, *NetherMod 2017 - XV International Workshop on Numerical Modelling of Mantle and Lithosphere Dynamics*, Putten, Netherlands.<br/>
-“Global modelling of early and recent Earth”
+`2019`
+"Central European Diasporas in Western Europe 15 years after the EU’s Eastern Enlargement: Political and Social Dynamics.” Workshop co-organised with Kacper Szulecki and Marta Bivand Erdal for the project *DIASPOlitic*, SWPS University, Warsaw, 6--7 November 2019.
+
+"Internalising the Insurgency: Understanding the Interaction of Radical Antiestablishment and Mainstream Parties." Panel organised for the *ECPR General Conference*, Wrocław, 4--7 September 2019. 
+
+`2015`
+"Structures of political competition in post-communist democracies: if not cleavages, then what?” Workshop co-organised with Radosław Markowski for the *ECPR Joint Sessions of Workshops*, Warsaw, 29 March--2 April 2015. 
+
+`2014`
+“Crisis, Corruption and Cleavages: Continuities and Change in Party Politics in Central and Eastern Europe.” Panel organised for the *APSA Annual Meeting*, Washington, D.C., 28--31 August 2014.
 
 
 ### Presentations
