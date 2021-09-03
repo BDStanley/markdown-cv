@@ -109,6 +109,8 @@ Kwiatkowska, A., Cześnik, M., Żerkowska-Balas, M., & **Stanley, B.** (2016). I
 **Stanley, B.** *Central and Eastern European Politics*. Textbook; under contract at *Springer* (expected publication in 2022).
 
 ### Book chapters
+`2021`
+**Stanley, B.** (2021). Poland: When Populists Must Manage Crisis Instead of Performing It. In N. Ringe & L. R. Rennó (Eds.) *Populism and the Pandemic*. **In press**
 
 `2020`
 **Stanley, B.** (2020). A Comparison of Two Polish Party Leaders: Jarosław Kaczyński and Donald Tusk. In S. Gherghina (Ed.), *Party Leaders in Eastern Europe* (pp. 171-195). doi: [10.1007/978-3-030-32025-6_8](https://doi.org/10.1007/978-3-030-32025-6_8)
