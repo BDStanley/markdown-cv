@@ -106,7 +106,7 @@ Kwiatkowska, A., Cześnik, M., Żerkowska-Balas, M., & **Stanley, B.** (2016). I
 
 ### Books
 
-Stanley, B. *Central and Eastern European Politics*. Textbook; under contract at *Springer* (expected publication in 2022).
+**Stanley, B.** *Central and Eastern European Politics*. Textbook; under contract at *Springer* (expected publication in 2022).
 
 ### Book chapters
 
