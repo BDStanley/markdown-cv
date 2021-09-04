@@ -66,9 +66,27 @@ Poland<br/>
 
 ## Publications
 
-### Journal articles
+### In progress
 
-Szulecki, K., Kotnarowski, M. & **Stanley, B**. Diaspora party systems as false mirrors: A comparative analysis of migrant external voting in six Central European countries. *Perspectives on Politics*, **Submitted**.
+**Stanley, B.** (2021). Poland: When Populists Must Manage Crisis Instead of Performing It. In N. Ringe & L. R. Rennó (Eds.) *Populism and the Pandemic*. **In press**
+
+**Stanley, B.**, "Poland", in *Europe Today: A Twenty–First Century Introduction*, 6th edition, edited by Ronald Tiersky and Erik Jones, Rowman & Littlefield Ltd. **Book chapter, first draft submitted**
+
+Szulecki, K., Kotnarowski, M. & **Stanley, B**. Diaspora party systems as false mirrors: A comparative analysis of migrant external voting in six Central European countries. *Perspectives on Politics*, **Journal article, under review**.
+
+**Stanley, B.**, "Inconsequential Radicalism: Explaining the Non-Impact of Poland’s Eurosceptic Turn on Public Attitudes to the EU.” **Journal article, first draft**
+
+**Stanley, B.** & Szczerbiak, A., "The Decline of the Left in Poland." **Journal article, first draft**
+
+Havlik, V. & **Stanley, B.**, "Not So Different After All? European Populism in Comparative Perspective." **Journal article, first draft**
+
+**Stanley, B.** "The Incumbency Problem: Measuring Populist Attitudes When Populists are in Power." **Journal article, first draft**
+
+**Stanley, B.** *Central and Eastern European Politics*. **Textbook; under contract at *Springer* (expected publication in 2022)**
+
+Bill, S. & **Stanley, B.**, *"Good Change: Poland's Revolt against the Liberal Order.* **Monograph, under proposal**
+
+### Journal articles
 
 `2021`
 Pirro, A. L. P., & **Stanley, B**. (2021). Forging, Bending, and Breaking: Enacting the “Illiberal Playbook” in Hungary and Poland. *Perspectives on Politics*, 1-16. doi: [10.1017/s1537592721001924](https://doi.org/10.1017/S1537592721001924)
@@ -104,13 +122,7 @@ Kwiatkowska, A., Cześnik, M., Żerkowska-Balas, M., & **Stanley, B.** (2016). I
 `2008`
 **Stanley, B.** (2008). The thin ideology of populism. *Journal of Political Ideologies*, 13(1), 95-110. doi: [10.1080/13569310701822289](https://doi.org/10.1080/13569310701822289)
 
-### Books
-
-**Stanley, B.** *Central and Eastern European Politics*. Textbook; under contract at *Springer* (expected publication in 2022).
-
 ### Book chapters
-`2021`
-**Stanley, B.** (2021). Poland: When Populists Must Manage Crisis Instead of Performing It. In N. Ringe & L. R. Rennó (Eds.) *Populism and the Pandemic*. **In press**
 
 `2020`
 **Stanley, B.** (2020). A Comparison of Two Polish Party Leaders: Jarosław Kaczyński and Donald Tusk. In S. Gherghina (Ed.), *Party Leaders in Eastern Europe* (pp. 171-195). doi: [10.1007/978-3-030-32025-6_8](https://doi.org/10.1007/978-3-030-32025-6_8)
@@ -146,16 +158,6 @@ Kwiatkowska, A., Cześnik, M., Żerkowska-Balas, M., & **Stanley, B.** (2016). I
 
 `2016`
 **Stanley, B.** (2016). Robert Rohrschneider and Stephen Whitefield, The Strain of Representation: How Parties Represent Diverse Voters in Western and Eastern Europe, reviewed by Ben Stanley. *Party Politics*, 22(1), 137-138. [doi: 10.1177/1354068815615270](https://doi.org/10.1177/1354068815615270)
-
-
-### Works in progress
-**Stanley, B.**, "Poland", in *Europe Today: A Twenty–First Century Introduction*, 6th edition, edited by Ronald Tiersky and Erik Jones, Rowman & Littlefield Ltd. **First draft of book chapter submitted**.
-
-**Stanley, B.**, "Inconsequential Radicalism: Explaining the Non-Impact of Poland’s Eurosceptic Turn on Public Attitudes to the EU.” Paper in progress.
-
-**Stanley, B.** & Szczerbiak, A., “The Decline of the Left in Poland.” Paper in progress.
-
-Havlik, V. & **Stanley, B.**, “Not So Different After All? European Populism in Comparative Perspective.” Paper in progress.
 
 ## Grants
 
