@@ -72,7 +72,7 @@ Poland<br/>
 
 **Stanley, B.**, "Poland", in *Europe Today: A Twenty–First Century Introduction*, 6th edition, edited by Ronald Tiersky and Erik Jones, Rowman & Littlefield Ltd. **Book chapter, first draft submitted**
 
-Szulecki, K., Kotnarowski, M. & **Stanley, B**. Diaspora party systems as false mirrors: A comparative analysis of migrant external voting in six Central European countries. *Perspectives on Politics*, **Journal article, under review**.
+Szulecki, K., Kotnarowski, M. & **Stanley, B**. Diaspora party systems as false mirrors: A comparative analysis of migrant external voting in six Central European countries. *Perspectives on Politics*, **Journal article, under review**
 
 **Stanley, B.**, Inconsequential Radicalism: Explaining the Non-Impact of Poland’s Eurosceptic Turn on Public Attitudes to the EU. **Journal article, first draft**
 
