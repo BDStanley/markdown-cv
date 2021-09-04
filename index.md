@@ -107,7 +107,7 @@ Markowski, R., & **Stanley, B.** (2019). Poczucie politycznego sprawstwa: o dete
 **Stanley, B.** (2018). A New Populist Divide? Correspondences of Supply and Demand in the 2015 Polish Parliamentary Elections. *East European Politics and Societies*, 33(1), 17-43. doi: [10.1177/0888325418783056](https://doi.org/10.1177/0888325418783056)
 
 `2016`
-**Stanley, B. (2016).** Confrontation by default and confrontation by design: strategic and institutional responses to Poland's populist coalition government. *Democratization*, 23(2), 263-282. doi: [10.1080/13510347.2015.1058782](https://doi.org/10.1080/13510347.2015.1058782)
+**Stanley, B.** (2016). Confrontation by default and confrontation by design: strategic and institutional responses to Poland's populist coalition government. *Democratization*, 23(2), 263-282. doi: [10.1080/13510347.2015.1058782](https://doi.org/10.1080/13510347.2015.1058782)
 
 Markowski, R., & **Stanley, B.** (2016). Rozłamy socjopolityczne w Polsce: Iluzja czy rzeczywistość? *Studia Socjologiczne*, 4(223), 17-40. 
 
