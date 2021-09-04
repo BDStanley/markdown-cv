@@ -154,10 +154,10 @@ Kwiatkowska, A., Cześnik, M., Żerkowska-Balas, M., & **Stanley, B.** (2016). I
 ### Essays, interviews and reviews
 
 `2019`
-Cichocki, M. A., & **Stanley, B.** (2019). Brexit i rewolucja populizmu w Europie. *Sprawy Międzynarodowe*, 72(2), 9-16. [https://doi.org/10.35757/sm.2019.72.2.01](https://doi.org/10.35757/sm.2019.72.2.01)
+Cichocki, M. A., & **Stanley, B.** (2019). Brexit i rewolucja populizmu w Europie. *Sprawy Międzynarodowe*, 72(2), 9-16. [doi: 10.35757/sm.2019.72.2.01](https://doi.org/10.35757/sm.2019.72.2.01)
 
 `2018`
-**Stanley, B.** (2018). Religion, Politics and Values in Poland: Continuity and Change Since 1989. Edited by Sabrina P. Ramet and Irena Borowik. New York, NY: Palgrave Macmillan. 341 pp. $129.00 Cloth. *Politics and Religion*, 11(2), 444-448. [doi: 10.1017/S1755048317000712](https://doi.org/10.1017/S1755048317000712)
+**Stanley, B.** (2018). Religion, Politics and Values in Poland: Continuity and Change Since 1989. Edited by Sabrina P. Ramet and Irena Borowik. New York, NY: Palgrave Macmillan. 341 pp. $129.00 Cloth. *Politics and Religion*, 11(2), 444-448. [doi: 10.1017/s1755048317000712](https://doi.org/10.1017/s1755048317000712)
 
 `2016`
 **Stanley, B.** (2016). Robert Rohrschneider and Stephen Whitefield, The Strain of Representation: How Parties Represent Diverse Voters in Western and Eastern Europe, reviewed by Ben Stanley. *Party Politics*, 22(1), 137-138. [doi: 10.1177/1354068815615270](https://doi.org/10.1177/1354068815615270)
