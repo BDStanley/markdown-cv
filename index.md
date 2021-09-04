@@ -4,7 +4,7 @@ title: Ben Stanley's CV
 ---
 # Ben Stanley
 
-Associate Professor
+Associate Professor of Political Science
 
 SWPS University<br/>
 ul. Chodakowska 19/31<br/>
