@@ -210,6 +210,8 @@ Principal investigator, "Integration versus Demarcation? A Comparative Classific
 ### Presentations
 
 `2021`
+When Populists Must Manage Crisis Instead of Performing It: COVID-19 in Poland. *VIII. Congress of The Czech Political Science Association*, Masaryk University, Brno, 9--10 September 2021.
+
 External voting, diaspora party systems & (il)liberal remittances: A comparative analysis of Central European post-accession elections. *ECPR General Conference*, virtual event, 30 August--3 September 2021.
 
 `2020`
