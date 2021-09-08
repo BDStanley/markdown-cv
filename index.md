@@ -421,5 +421,3 @@ Citizenship: British; Irish
 Residence: Poland
 
 Family: Married, one child
-
-<br/>*Last updated: 8 September 2021*<br/><br/>
