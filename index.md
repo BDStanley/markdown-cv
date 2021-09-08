@@ -422,4 +422,4 @@ Residence: Poland
 
 Family: Married, one child
 
-<br/>*Last updated: 4 September 2021*<br/><br/>
+<br/>*Last updated: 8 September 2021*<br/><br/>
