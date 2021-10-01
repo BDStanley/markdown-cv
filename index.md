@@ -70,21 +70,23 @@ Poland<br/>
 
 **Stanley, B.** (2021). Poland: When Populists Must Manage Crisis Instead of Performing It. In N. Ringe & L. R. Rennó (Eds.) *Populism and the Pandemic*. **In press**
 
-**Stanley, B.**, "Poland", in *Europe Today: A Twenty–First Century Introduction*, 6th edition, edited by Ronald Tiersky and Erik Jones, Rowman & Littlefield Ltd. **Book chapter, first draft submitted**
+**Stanley, B.**. "Poland", in *Europe Today: A Twenty–First Century Introduction*, 6th edition, edited by Ronald Tiersky and Erik Jones, Rowman & Littlefield Ltd. **Book chapter, first draft submitted**
 
 Szulecki, K., Kotnarowski, M. & **Stanley, B**. Diaspora party systems as false mirrors: A comparative analysis of migrant external voting in six Central European countries. *Perspectives on Politics*, **Journal article, under review**
 
-**Stanley, B.**, Inconsequential Radicalism: Explaining the Non-Impact of Poland’s Eurosceptic Turn on Public Attitudes to the EU. **Journal article, first draft**
+**Stanley, B.**. Inconsequential Radicalism: Explaining the Non-Impact of Poland’s Eurosceptic Turn on Public Attitudes to the EU. **Journal article, first draft**
 
-**Stanley, B.** & Szczerbiak, A., The Decline of the Left in Poland. **Journal article, first draft**
+**Stanley, B.** & Szczerbiak, A. The Decline of the Left in Poland. **Journal article, first draft**
 
-Havlik, V. & **Stanley, B.**, Not So Different After All? European Populism in Comparative Perspective. **Journal article, first draft**
+Havlik, V. & **Stanley, B**. Not So Different After All? European Populism in Comparative Perspective. **Journal article, first draft**
 
-**Stanley, B.** The Incumbency Problem: Measuring Populist Attitudes When Populists are in Power. **Journal article, first draft**
+**Stanley, B**. The Incumbency Problem: Measuring Populist Attitudes When Populists are in Power. **Journal article, first draft**
 
-**Stanley, B.** Central and Eastern European Politics. **Textbook; under contract at *Springer* (expected publication in 2022)**
+**Stanley, B**. Central and Eastern European Politics. **Textbook; under contract at *Springer* (expected publication in 2023)**
 
-Bill, S. & **Stanley, B.**, Good Change: Poland's Revolt against the Liberal Order. **Monograph, under proposal**
+Szulecki, K., Bivand Erdal, M. and **Stanley, B**. External Voting - The Patterns and Drivers of Central European Migrants' Homeland Electoral Participation. **Monograph under contract at *Springer* (expected publication in 2022)** 
+
+Bill, S. & **Stanley, B**. Good Change: Poland's Revolt against the Liberal Order. **Monograph, proposal to be submitted**
 
 ### Journal articles
 
@@ -166,7 +168,8 @@ Cichocki, M. A., & **Stanley, B.** (2019). Brexit i rewolucja populizmu w Europi
 
 ### In preparation
 
-A *Horizon 2020* application for research into illiberalism in Europe.
+`2021`
+Principal investigator for one Work Package, DEMCORE (Democracy Between Complacency and Erosion), *Horizon Europe* call HORIZON-CL2-2021-DEMOCRACY-01-01 - The future of liberal democracy in Europe, expected budget, €240,000.
 
 ### Current projects
 
