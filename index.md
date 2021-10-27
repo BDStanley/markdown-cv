@@ -166,7 +166,7 @@ Cichocki, M. A., & **Stanley, B.** (2019). Brexit i rewolucja populizmu w Europi
 
 ## Research projects
 
-### In preparation
+### Under review
 
 `2021`
 Principal investigator for one Work Package, DEMCORE (Democracy Between Complacency and Erosion), *Horizon Europe* call HORIZON-CL2-2021-DEMOCRACY-01-01 - The future of liberal democracy in Europe, expected budget, €240,000.
@@ -399,6 +399,8 @@ Peer reviewer for *Cambridge Review of International Affairs*, *East European Po
 External reviewer of grant bid under *SASPRO Slovak Academy of Sciences Programme*, 2015
 
 ### Other
+Rector's Award for Scientific Achievements 2020/2021, SWPS University, 2021.
+
 Member of the selection committee for the *ECPR Joint Sessions of Workshops*, 2019. 
 
 Member of the questionnaire committee for the Polish National Election Study 2015 post-electoral survey, *SWPS University*, 2015.
