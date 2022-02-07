@@ -174,10 +174,13 @@ Principal investigator for one Work Package, DEMCORE (Democracy Between Complace
 `2021-2024`
 Principal investigator, "Plemienność czy obojętność? Badanie rzeczywiście istniejących wartości demokratycznych i ich konsekwencji w Polsce" ("Partisan bias or a climate of indifference? An investigation of actually-existing democratic values and their consequences in Poland"), *National Science Center, OPUS 20*, 783,228 zł.
 
-`2019-2021`
-Principal investigator, "DIASPOlitic: Understanding the Political Dynamics of Émigré Communities in an Era of European Democratic Backsliding", *Norwegian Research Council, EUROPA (Europe in Transitions) A2–Values Under Pressure*, 221,880 zł.
+`2022`
+Co-investigator, “Wiedza, postawy i preferencje Polek i Polaków względem nowych zagrożeń cywilizacyjnych.” (“Political knowledge and preferences of Poles regarding new civilisational threats.”), *Regionalna Inicjatywa Doskonałości w SWPS Uniwersytecie Humanistycznospołecznym w latach 2019-2022*, 118,770 zł.
 
 ### Previous projects
+
+`2019-2021`
+Principal investigator, "DIASPOlitic: Understanding the Political Dynamics of Émigré Communities in an Era of European Democratic Backsliding", *Norwegian Research Council, EUROPA (Europe in Transitions) A2–Values Under Pressure*, 221,880 zł.
 
 `2019-2020`
 Principal investigator, "Mierząc populizm: badanie pilotażowe mające na celu udoskonalenie istniejących pytań". ("Measuring populism: a pilot study to improve existing questions.") *Narodowe Centrum Nauki, MINIATURA 2, [2018/02/X/HS5/03339]*, 43,972 zł.
@@ -327,7 +330,7 @@ Politics of Eastern Europe in Transition (lecture and seminar).
 Democracy in Europe (lecture), 2012.
 
 ### Undergraduate
-`2021`
+`2021--2022`
 The Psychology of Prejudice (seminar).
 Populism, Nativism and the Problems of Contemporary Liberal Democracy (lecture).
 
@@ -392,7 +395,7 @@ Doctoral thesis, Justyna Lisińska, "How do populist supporters engage online?",
 Doctoral thesis, Agnieszka Sztajdel, "The Post-Truth Narrative in Post-Smolensk Poland", *European University Institute*, 2019.
 
 ### Reviewing
-Peer reviewer for *Cambridge Review of International Affairs*, *East European Politics*, *East European Politics and Societies*, *Europe-Asia Studies*, *European Journal of Political Research*, *German Politics*, *Government and Opposition*, *Journal of Elections, Public Opinion and Parties*, *Journal of Legislative Studies*, *Party Politics*, *Political Research Quarterly*, *Political Studies*, *Politics*, *Politics and Religion*, *Problems of Post-Communism*, *Representation*.
+Peer reviewer for *American Journal of Political Science*, *Comparative Political Studies*, *Cambridge Review of International Affairs*, *East European Politics*, *East European Politics and Societies*, *Europe-Asia Studies*, *European Journal of Political Research*, *German Politics*, *Government and Opposition*, *Journal of Elections, Public Opinion and Parties*, *Journal of Legislative Studies*, *Party Politics*, *Political Research Quarterly*, *Political Studies*, *Politics*, *Politics and Religion*, *Problems of Post-Communism*, *Representation*.
 
 External reviewer of grant bid under *SASPRO Slovak Academy of Sciences Programme*, 2015
 
