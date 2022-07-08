@@ -68,9 +68,11 @@ Poland<br/>
 
 ### In progress
 
-**Stanley, B.** (2021). Poland: When Populists Must Manage Crisis Instead of Performing It. In N. Ringe & L. R. Rennó (Eds.) *Populism and the Pandemic*. **In press**
+**Stanley, B.** (2021). Poland: When Populists Must Manage Crisis Instead of Performing It. In N. Ringe & L. R. Rennó (Eds.) *Populism and the Pandemic*. **Book chapter, in press**
 
-**Stanley, B.**. "Poland", in *Europe Today: A Twenty–First Century Introduction*, 6th edition, edited by Ronald Tiersky and Erik Jones, Rowman & Littlefield Ltd. **Book chapter, first draft submitted**
+**Stanley, B.**. "Poland", in *Europe Today: A Twenty–First Century Introduction*, 6th edition, edited by Ronald Tiersky and Erik Jones, Rowman & Littlefield Ltd. **Book chapter, in press** 
+
+**Stanley, B**. The Incumbency Problem: Measuring Populist Attitudes When Populists are in Power. **Journal article, first draft**
 
 **Stanley, B.**. Inconsequential Radicalism: Explaining the Non-Impact of Poland’s Eurosceptic Turn on Public Attitudes to the EU. **Journal article, first draft**
 
@@ -78,18 +80,24 @@ Poland<br/>
 
 Havlik, V. & **Stanley, B**. Not So Different After All? European Populism in Comparative Perspective. **Journal article, first draft**
 
-**Stanley, B**. The Incumbency Problem: Measuring Populist Attitudes When Populists are in Power. **Journal article, first draft**
+Żerkowska-Balas, M & **Stanley, B.** Populism and attitudes to democracy in Central and Eastern Europe. **Book chapter, first draft**
 
-**Stanley, B**. Central and Eastern European Politics. **Textbook; under contract at *Springer* (expected publication in 2023)**
+**Stanley, B.** Populism. In A. Żukowski, M. Hartliński, J. Wojnicki & Ł. Zamęcki (Eds.),  *The Routledge Handbook of Polish Politics and Society*. **Book chapter, first draft**
 
-Szulecki, K., Bivand Erdal, M. and **Stanley, B**. External Voting - The Patterns and Drivers of Central European Migrants' Homeland Electoral Participation. **Monograph under contract at *Springer* (expected publication in 2022)** 
+**Stanley, B.** Parties and political representation. In F. Casal Bertoa, S. Guerra & K. Grzybowska-Walecka (Eds.) *Oxford Handbook of Polish Politics*. **Book chapter, first draft**
 
-Bill, S. & **Stanley, B**. Good Change: Poland's Revolt against the Liberal Order. **Monograph, proposal to be submitted**
+Szulecki, K., Bivand Erdal, M. and **Stanley, B**. External Voting - The Patterns and Drivers of Central European Migrants' Homeland Electoral Participation. **Monograph under contract at *Springer* (expected publication in 2023)** 
+
+**Stanley, B**. Central and Eastern European Politics. **Textbook; under contract at *Springer* (expected publication in 2024)**
+
+Bill, S. & **Stanley, B**. Good Change: Poland's Revolt against the Liberal Order. **Monograph under contract at *Stanford University Press*, (expected publication in 2024)**
 
 ### Journal articles
 
+`2022`
+Pirro, A. L. P., & **Stanley, B**. (2022). Forging, Bending, and Breaking: Enacting the “Illiberal Playbook” in Hungary and Poland. *Perspectives on Politics*, 20(1), 86-101. doi: [10.1017/s1537592721001924](https://doi.org/10.1017/S1537592721001924)
+
 `2021`
-Pirro, A. L. P., & **Stanley, B**. (2021). Forging, Bending, and Breaking: Enacting the “Illiberal Playbook” in Hungary and Poland. *Perspectives on Politics*, 1-16. doi: [10.1017/s1537592721001924](https://doi.org/10.1017/S1537592721001924)
 
 **Stanley, B.**, Markowski, R., & Cześnik, M. (2021). Marginalization, not mainstreaming: Explaining the failure of fringe parties in Poland. *Party Politics*, 21(1), 46-57. doi: [10.1177/1354068819863616](https://doi.org/10.1177/1354068819863616)
 
@@ -125,7 +133,7 @@ Kwiatkowska, A., Cześnik, M., Żerkowska-Balas, M., & **Stanley, B.** (2016). I
 ### Book chapters
 
 `2020`
-**Stanley, B.** (2020). A Comparison of Two Polish Party Leaders: Jarosław Kaczyński and Donald Tusk. In S. Gherghina (Ed.), *Party Leaders in Eastern Europe* (pp. 171-195). doi: [10.1007/978-3-030-32025-6_8](https://doi.org/10.1007/978-3-030-32025-6_8)
+**Stanley, B.** (2020). A Comparison of Two Polish Party Leaders: Jarosław Kaczyński and Donald Tusk. In S. Gherghina (Ed.), [*Party Leaders in Eastern Europe*] (pp. 171-195). doi: [10.1007/978-3-030-32025-6_8](https://doi.org/10.1007/978-3-030-32025-6_8)
 
 `2019`
 **Stanley, B.** (2019). Working in the gaps left behind: Radical right movements in a consolidating party system. In M. Caiani & O. Cisar (Eds.), [*Radical Right ‘Movement Parties’ in Europe*](https://www.routledge.com/Radical-Right-Movement-Parties-in-Europe-1st-Edition/Caiani-Cisar/p/book/9781138566767), (pp. 168-183). London and New York: Routledge.
@@ -144,12 +152,12 @@ Kwiatkowska, A., Cześnik, M., Żerkowska-Balas, M., & **Stanley, B.** (2016). I
 **Stanley, B.** (2014). Poland 20 Years Later: The Long Arm of Transition. In R. Tiersky & E. Jones (Eds.), [*Europe Today: A Twenty-First Century Introduction*](https://rowman.com/ISBN/9781442221109/Europe-Today-A-Twenty-first-Century-Introduction-Fifth-Edition) (5 ed., pp. 257-291). Plymouth: Rowman & Littlefield Ltd.
 
 `2013`
-**Stanley, B.** (2013). Populism. In G. Claeys (Ed.), Encyclopedia of Modern Political Thought (pp. 642). [doi: 10.4135/9781452234168.n254](https://www.doi.org/10.4135/9781452234168.n254)
+**Stanley, B.** (2013). Populism. In G. Claeys (Ed.), [*Encyclopedia of Modern Political Thought*] (pp. 642). [doi: 10.4135/9781452234168.n254](https://www.doi.org/10.4135/9781452234168.n254)
 
 **Stanley, B.** (2013). Poland. In S. Berglund, J. Ekman, K. Deegan-Krause, & T. Knutsen (Eds.), [*The Handbook of Political Change in Eastern Europe*](https://www.e-elgar.com/shop/the-handbook-of-political-change-in-eastern-europe-third-edition) (pp. 167-215). Cheltenham: Edward Elgar Publishing Limited.
 
 `2011`
-**Stanley, B.** (2011). Poland 20 Years Later: The Long Arm of Transition. In R. Tiersky & E. Jones (Eds.), Europe Today: A Twenty-First Century Introduction (4 ed., pp. 243-273). Plymouth: Rowman & Littlefield Ltd.
+**Stanley, B.** (2011). Poland 20 Years Later: The Long Arm of Transition. In R. Tiersky & E. Jones (Eds.), *Europe Today: A Twenty-First Century Introduction* (4 ed., pp. 243-273). Plymouth: Rowman & Littlefield Ltd.
 
 ### Essays, interviews and reviews
 
