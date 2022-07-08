@@ -172,11 +172,6 @@ Cichocki, M. A., & **Stanley, B.** (2019). Brexit i rewolucja populizmu w Europi
 
 ## Research projects
 
-### Under review
-
-`2021`
-Principal investigator for one Work Package, DEMCORE (Democracy Between Complacency and Erosion), *Horizon Europe* call HORIZON-CL2-2021-DEMOCRACY-01-01 - The future of liberal democracy in Europe, expected budget, €240,000.
-
 ### Current projects
 
 `2021-2024`
@@ -220,6 +215,9 @@ Principal investigator, "Integration versus Demarcation? A Comparative Classific
 
 
 ### Presentations
+
+`2022`
+Would democratic backsliders be elected to office if only CEE migrants voted? *19th IMISCOE International Conference*, Oslo, 29 June--1 July 2022. 
 
 `2021`
 When Populists Must Manage Crisis Instead of Performing It: COVID-19 in Poland. *VIII. Congress of The Czech Political Science Association*, Masaryk University, Brno, 9--10 September 2021.
