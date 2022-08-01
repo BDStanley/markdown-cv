@@ -68,8 +68,6 @@ Poland<br/>
 
 ### In progress
 
-**Stanley, B.** (2021). Poland: When Populists Must Manage Crisis Instead of Performing It. In N. Ringe & L. R. Rennó (Eds.) *Populism and the Pandemic*. **Book chapter, in press**
-
 **Stanley, B.**. "Poland", in *Europe Today: A Twenty–First Century Introduction*, 6th edition, edited by Ronald Tiersky and Erik Jones, Rowman & Littlefield Ltd. **Book chapter, in press** 
 
 **Stanley, B**. The Incumbency Problem: Measuring Populist Attitudes When Populists are in Power. **Journal article, first draft**
@@ -131,9 +129,11 @@ Kwiatkowska, A., Cześnik, M., Żerkowska-Balas, M., & **Stanley, B.** (2016). I
 **Stanley, B.** (2008). The thin ideology of populism. *Journal of Political Ideologies*, 13(1), 95-110. doi: [10.1080/13569310701822289](https://doi.org/10.1080/13569310701822289)
 
 ### Book chapters
+`2022`
+**Stanley, B.** (2022). Poland: When Populists Must Manage Crisis Instead of Performing It. In N. Ringe & L. R. Rennó (Eds.) [*Populism and the Pandemic: How Populists Around the World Responded to COVID-19*](https://doi.org/10.4324/9781003197614), (pp. 105-116). London and New York: Routledge. 
 
 `2020`
-**Stanley, B.** (2020). A Comparison of Two Polish Party Leaders: Jarosław Kaczyński and Donald Tusk. In S. Gherghina (Ed.), [*Party Leaders in Eastern Europe*] (pp. 171-195). doi: [10.1007/978-3-030-32025-6_8](https://doi.org/10.1007/978-3-030-32025-6_8)
+**Stanley, B.** (2020). A Comparison of Two Polish Party Leaders: Jarosław Kaczyński and Donald Tusk. In S. Gherghina (Ed.), [*Party Leaders in Eastern Europe*](https://doi.org/10.1007/978-3-030-32025-6_8), (pp. 171-195). Palgrave.
 
 `2019`
 **Stanley, B.** (2019). Working in the gaps left behind: Radical right movements in a consolidating party system. In M. Caiani & O. Cisar (Eds.), [*Radical Right ‘Movement Parties’ in Europe*](https://www.routledge.com/Radical-Right-Movement-Parties-in-Europe-1st-Edition/Caiani-Cisar/p/book/9781138566767), (pp. 168-183). London and New York: Routledge.
@@ -146,7 +146,7 @@ Kwiatkowska, A., Cześnik, M., Żerkowska-Balas, M., & **Stanley, B.** (2016). I
 `2015`
 **Stanley, B.** (2015). The Post-Populist Non-Crisis in Poland. In T. S. Pappas & H. Kriesi (Eds.), [*European Populism in the Shadow of the Great Recession*](http://press.ecpr.eu/book_details.asp?bookTitleID=372) (pp. 251-273). Colchester: ECPR Press.
 
-**Stanley, B.** (2015). The Polish Self-Defence party: from agrarian protest to the politics of populism, 1991-2007. In D. Strijker, G. Voerman, & I. Terluin (Eds.), [*Rural protest groups and populist political parties*](https://www.wageningenacademic.com/doi/book/10.3920/978-90-8686-807-0) (pp. 191-216): Wageningen Academic Publishers.
+**Stanley, B.** (2015). The Polish Self-Defence party: from agrarian protest to the politics of populism, 1991-2007. In D. Strijker, G. Voerman, & I. Terluin (Eds.), [*Rural protest groups and populist political parties*](https://www.wageningenacademic.com/doi/book/10.3920/978-90-8686-807-0) (pp. 191-216). Wageningen Academic Publishers.
 
 `2014`
 **Stanley, B.** (2014). Poland 20 Years Later: The Long Arm of Transition. In R. Tiersky & E. Jones (Eds.), [*Europe Today: A Twenty-First Century Introduction*](https://rowman.com/ISBN/9781442221109/Europe-Today-A-Twenty-first-Century-Introduction-Fifth-Edition) (5 ed., pp. 257-291). Plymouth: Rowman & Littlefield Ltd.
