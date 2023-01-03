@@ -391,7 +391,7 @@ The Polish Party System (seminar).
 "Workshop in Electoral Survey Design." *ELECDEM*, Central European University, Budapest, 30 April--4 May 2010.
 
 `2009`
-Euromanifesto coder training,* Mannheim Centre for European Social Research*, University of Mannheim, 8--10 May 2009.
+Euromanifesto coder training, *Mannheim Centre for European Social Research*, University of Mannheim, 8--10 May 2009.
 
 `2008`
 "Comparative research methods." *Essex Summer School in Social Science Data Analysis*, 7--18 July 2008.
