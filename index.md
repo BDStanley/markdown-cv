@@ -84,13 +84,11 @@ Havlik, V. & **Stanley, B**. Not So Different After All? European Populism in Co
 
 **Stanley, B.** Parties and political representation. In F. Casal Bertoa, S. Guerra & K. Grzybowska-Walecka (Eds.) *Oxford Handbook of Polish Politics*. **Book chapter, first draft**
 
-Szulecki, K., Bivand Erdal, M. and **Stanley, B**. External Voting - The Patterns and Drivers of Central European Migrants' Homeland Electoral Participation. **Monograph under contract at *Springer* (expected publication in 2023)** 
-
-**Stanley, B**. Central and Eastern European Politics. **Textbook; under contract at *Springer* (expected publication in 2024)**
-
 Bill, S. & **Stanley, B**. Good Change: Poland's Revolt against the Liberal Order. **Monograph under contract at *Stanford University Press*, (expected publication in 2024)**
 
 ### Journal articles
+`2023`
+Szulecki, K., Kotnarowski, M. & **Stanley, B.**, Emigrant external voting in Central-Eastern Europe after EU enlargement. *Electoral Studies*, 81. doi: [10.1016/j.electstud.2022.102552](https://doi.org/10.1016/j.electstud.2022.102552)
 
 `2022`
 Pirro, A. L. P., & **Stanley, B**. (2022). Forging, Bending, and Breaking: Enacting the “Illiberal Playbook” in Hungary and Poland. *Perspectives on Politics*, 20(1), 86-101. doi: [10.1017/s1537592721001924](https://doi.org/10.1017/S1537592721001924)
@@ -127,6 +125,10 @@ Kwiatkowska, A., Cześnik, M., Żerkowska-Balas, M., & **Stanley, B.** (2016). I
 
 `2008`
 **Stanley, B.** (2008). The thin ideology of populism. *Journal of Political Ideologies*, 13(1), 95-110. doi: [10.1080/13569310701822289](https://doi.org/10.1080/13569310701822289)
+
+### Monographs
+`2023`
+Szulecki, K., Bivand Erdal, M. and **Stanley, B.** (2023) [*External Voting - The Patterns and Drivers of Central European Migrants' Homeland Electoral Participation.*](https://link.springer.com/book/10.1007/978-3-031-19246-3), Palgrave Macmillan.
 
 ### Book chapters
 `2022`
