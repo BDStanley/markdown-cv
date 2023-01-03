@@ -400,6 +400,8 @@ Euromanifesto coder training, *Mannheim Centre for European Social Research*, Un
 
 ## Other professional activities
 ### Thesis examination
+Doctoral thesis, Paulina Lenik, "A pendulum swung back? Comparative analysis of populism in Central and Eastern Europe.", *University College London*, 2022.
+
 Doctoral thesis, Justyna Lisińska, "How do populist supporters engage online?", *University of Southampton*, 2021.
 
 Doctoral thesis, Agnieszka Sztajdel, "The Post-Truth Narrative in Post-Smolensk Poland", *European University Institute*, 2019.
