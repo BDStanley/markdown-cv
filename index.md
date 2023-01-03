@@ -219,6 +219,8 @@ Principal investigator, "Integration versus Demarcation? A Comparative Classific
 ### Presentations
 
 `2022`
+Squeezed from both sides: the dilemma of Poland’s social-democratic left. *European Forum on the Future of Political Parties: Between regeneration and decline – social democratic parties in Europe*, Rome, 15--16 September 2022.
+
 Would democratic backsliders be elected to office if only CEE migrants voted? *19th IMISCOE International Conference*, Oslo, 29 June--1 July 2022. 
 
 `2021`
