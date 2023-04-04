@@ -176,6 +176,9 @@ Cichocki, M. A., & **Stanley, B.** (2019). Brexit i rewolucja populizmu w Europi
 
 ### Current projects
 
+`2023-2025`
+Co-investigator, Work Packages 2 and 4, “AUTHLIB – Neo-Authoritarianisms in Europe and the Liberal Democratic Response”, *HORIZON-CL2-2021-DEMOCRACY-01*, €2,523,765.
+
 `2021-2024`
 Principal investigator, "Plemienność czy obojętność? Badanie rzeczywiście istniejących wartości demokratycznych i ich konsekwencji w Polsce" ("Partisan bias or a climate of indifference? An investigation of actually-existing democratic values and their consequences in Poland"), *National Science Center, OPUS 20*, 783,228 zł.
 
