@@ -338,6 +338,8 @@ European Integration (Polish)
 Student portfolio and thesis supervision (English)
 
 ### Previous seminars
+Challenges and Values in Public Life: Polarisation (Polish)
+Central and Eastern Europe During the Transition Period: Political, Economic and Social Changes of the Post-Communist Period
 Oral Presentations
 Professional Communications: Presentations
 Professional Communications: Writing In Business
