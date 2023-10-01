@@ -27,10 +27,10 @@ Poland<br/>
 ## Employment
 
 `2018-present`
-**Associate Professor**, *Centre for the Study of Democracy, SWPS University of Social Sciences and Humanities*, Warsaw, Poland.
+**Associate Professor**, *Centre for the Study of Democracy, SWPS University*, Warsaw, Poland.
 
 `2015-2018`
-**Assistant Professor**, *Centre for the Study of Democracy, SWPS University of Social Sciences and Humanities*, Warsaw, Poland.
+**Assistant Professor**, *Centre for the Study of Democracy, SWPS University*, Warsaw, Poland.
 
 `2013-2015`
 **Marie Curie Intra-European Research Fellow**, *School of Law, Politics and Sociology, University of Sussex*, Brighton, United Kingdom.
@@ -206,6 +206,16 @@ Principal investigator, "Integration versus Demarcation? A Comparative Classific
 
 
 ### Presentations
+`2023`
+Lip-Service Liberalism? Declared and Revealed Attitudes to Democracy in Poland. *Grassroots Unrest in Europe and the Erosion of Liberal Democracy, Illiberalism Studies Program, George Washington University*, Washington, DC, 3 November 2023.
+
+Polish Elections: What's Left of the Liberal Order? *Norwegian Institute of International Affairs (NUPI)*, Oslo,  29 September 2023.
+
+Do Central European Diasporas Matter for Homeland Election Results? *Peace Research Institute (PRIO)*, Oslo,  28 September 2023.
+
+You Are What You Eat: Edible Extremism and Cultural Polarisation in the Netherlands and Poland. *ECPR General Conference*, Prague, 4--8 September 2023.
+
+Lip-Service Liberalism? Declared and Revealed Attitudes to Democracy in Poland. *APSA Annual Meeting*, Los Angeles, August 31--3 September 2023.
 
 `2022`
 Squeezed from both sides: the dilemma of Poland’s social-democratic left. *European Forum on the Future of Political Parties: Between regeneration and decline – social democratic parties in Europe*, Rome, 15--16 September 2022.
@@ -316,59 +326,44 @@ Populist Anti-liberal Ideology in the Polish Party System, 2001--2007. *Populism
 
 ## Teaching
 
-### Postgraduate
-`2019`
-Oral Presentations (seminar).
+### Current academic year
+Social Research Methodology (language of instruction: English)
+Introduction to Political Psychology (English)
+Challenges and Values in Public Life: Prejudice (Polish)
+The Role of Conspiracy Theories in Public Life (Polish)
+English in Professional Use (English)
+The Social Psychology of Democracies in Transition (English)
+The Social Psychology of Conspiracy Theories (English)
+European Integration (Polish)
+Student portfolio and thesis supervision (English)
 
-`2017--2019`
-Professional Communications: Presentations (seminar).
-Professional Communications: Writing In Business (seminar). 
-Politics of Eastern Europe in Transition (lecture and seminar).
+### Previous seminars
+Oral Presentations
+Professional Communications: Presentations
+Professional Communications: Writing In Business
+The Psychology of Prejudice
+Populism, Nativism and the Problems of Contemporary Liberal Democracy
+Social Psychology of Conspiracy Theories
+Academic Writing
+Introduction to Political Psychology
+International Relations
+European Politics
+Politics of Governance: Eastern Europe
+Contemporary Political Systems
+Intellectual Property and Textual Composition 
+Regional Policy and the Structural Funds
+The Polish Party System
 
-`2012`
-Democracy in Europe (lecture), 2012.
-
-### Undergraduate
-`2021--2022`
-The Psychology of Prejudice (seminar).
-Populism, Nativism and the Problems of Contemporary Liberal Democracy (lecture).
-
-`2020--2021`
-Social Psychology of Conspiracy Theories (seminar).
-Academic Writing (seminar).
-The Social Psychology of Democracies in Transition (lecture).
-
-`2020`
-European Integration (lecture).
-
-`2019--2020`
-Introduction to Political Psychology (seminar).
-International Business and the Challenges of Globalization (lecture and seminar).
-
-`2016--2020`
-Introduction to International Politics (lecture).
-
-`2017--2019`
-International Relations (seminar).
-
-`2015`
-Political Systems (lecture).
-Recent Polish Political History (lecture).
-Public Opinion (lecture).
-
-`2013--2014`
-European Politics (seminar).
-
-`2013`
-Politics of Governance: Eastern Europe (lecture and seminar).
-
-`2011--2013`
-Contemporary Political Systems (seminar).
-Intellectual Property and Textual Composition (seminar).
-Regional Policy and the Structural Funds (lecture and seminar).
-
-`2011--2012`
-The Polish Party System (seminar).
+### Previous lectures
+Politics of Eastern Europe in Transition
+Democracy in Europe
+The Social Psychology of Democracies in Transition
+European Integration
+International Business and the Challenges of Globalization
+Introduction to International Politics
+Political Systems
+Recent Polish Political History
+Public Opinion 
 
 ## Research training and skills
 `2014`
