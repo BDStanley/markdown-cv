@@ -328,43 +328,77 @@ Populist Anti-liberal Ideology in the Polish Party System, 2001--2007. *Populism
 
 ### Current academic year
 Social Research Methodology (language of instruction: English)
+
 Introduction to Political Psychology (English)
+
 Challenges and Values in Public Life: Prejudice (Polish)
+
 The Role of Conspiracy Theories in Public Life (Polish)
+
 English in Professional Use (English)
+
 The Social Psychology of Democracies in Transition (English)
+
 The Social Psychology of Conspiracy Theories (English)
+
 European Integration (Polish)
+
 Student portfolio and thesis supervision (English)
+
 
 ### Previous seminars
 Challenges and Values in Public Life: Polarisation (Polish)
+
 Central and Eastern Europe During the Transition Period: Political, Economic and Social Changes of the Post-Communist Period
+
 Oral Presentations
+
 Professional Communications: Presentations
+
 Professional Communications: Writing In Business
+
 The Psychology of Prejudice
+
 Populism, Nativism and the Problems of Contemporary Liberal Democracy
+
 Social Psychology of Conspiracy Theories
+
 Academic Writing
+
 Introduction to Political Psychology
+
 International Relations
+
 European Politics
+
 Politics of Governance: Eastern Europe
+
 Contemporary Political Systems
-Intellectual Property and Textual Composition 
+
+Intellectual Property and Textual Composition
+
 Regional Policy and the Structural Funds
+
 The Polish Party System
+
 
 ### Previous lectures
 Politics of Eastern Europe in Transition
+
 Democracy in Europe
+
 The Social Psychology of Democracies in Transition
+
 European Integration
+
 International Business and the Challenges of Globalization
+
 Introduction to International Politics
+
 Political Systems
+
 Recent Polish Political History
+
 Public Opinion 
 
 ## Research training and skills
