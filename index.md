@@ -66,28 +66,11 @@ Poland<br/>
 
 ## Publications
 
-### In progress
-
-**Stanley, B.**. "Poland", in *Europe Today: A Twenty–First Century Introduction*, 6th edition, edited by Ronald Tiersky and Erik Jones, Rowman & Littlefield Ltd. **Book chapter, in press** 
-
-**Stanley, B**. The Incumbency Problem: Measuring Populist Attitudes When Populists are in Power. **Journal article, first draft**
-
-**Stanley, B.**. Inconsequential Radicalism: Explaining the Non-Impact of Poland’s Eurosceptic Turn on Public Attitudes to the EU. **Journal article, first draft**
-
-**Stanley, B.** & Szczerbiak, A. The Decline of the Left in Poland. **Journal article, first draft**
-
-Havlik, V. & **Stanley, B**. Not So Different After All? European Populism in Comparative Perspective. **Journal article, first draft**
-
-Żerkowska-Balas, M & **Stanley, B.** Populism and attitudes to democracy in Central and Eastern Europe. **Book chapter, first draft**
-
-**Stanley, B.** Populism. In A. Żukowski, M. Hartliński, J. Wojnicki & Ł. Zamęcki (Eds.),  *The Routledge Handbook of Polish Politics and Society*. **Book chapter, first draft**
-
-**Stanley, B.** Parties and political representation. In F. Casal Bertoa, S. Guerra & K. Grzybowska-Walecka (Eds.) *Oxford Handbook of Polish Politics*. **Book chapter, first draft**
-
-Bill, S. & **Stanley, B**. Good Change: Poland's Revolt against the Liberal Order. **Monograph under contract at *Stanford University Press*, (expected publication in 2024)**
-
 ### Journal articles
 `2023`
+
+Markowski, R., Żerkowska-Balas, M. & **Stanley, B.**, Participation in Polish Local Elections: Sheer Rational Choice or Social Embeddedness Fate? *East European Politics and Societies: and Cultures*, Online. doi: [10.1177/08883254231177416](https://doi.org/10.1177/08883254231177416))
+
 Szulecki, K., Kotnarowski, M. & **Stanley, B.**, Emigrant external voting in Central-Eastern Europe after EU enlargement. *Electoral Studies*, 81. doi: [10.1016/j.electstud.2022.102552](https://doi.org/10.1016/j.electstud.2022.102552)
 
 `2022`
@@ -131,6 +114,9 @@ Kwiatkowska, A., Cześnik, M., Żerkowska-Balas, M., & **Stanley, B.** (2016). I
 Szulecki, K., Bivand Erdal, M. and **Stanley, B.** (2023) [*External Voting - The Patterns and Drivers of Central European Migrants' Homeland Electoral Participation.*](https://link.springer.com/book/10.1007/978-3-031-19246-3), Palgrave Macmillan.
 
 ### Book chapters
+`2023`
+**Stanley, B.** (2023). Poland. In E. Jones & M. Hedberg (Eds.) [*Europe Today: A Twenty-First Century Introduction*](https://rowman.com/ISBN/9781538110928/Europe-Today-A-Twenty-First-Century-Introduction), Sixth Edition. London and New York: Routledge. 
+
 `2022`
 **Stanley, B.** (2022). Poland: When Populists Must Manage Crisis Instead of Performing It. In N. Ringe & L. R. Rennó (Eds.) [*Populism and the Pandemic: How Populists Around the World Responded to COVID-19*](https://doi.org/10.4324/9781003197614), (pp. 105-116). London and New York: Routledge. 
 
