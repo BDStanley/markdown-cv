@@ -432,6 +432,8 @@ Peer reviewer for *American Journal of Political Science*, *Comparative Politica
 External reviewer of grant bid under *SASPRO Slovak Academy of Sciences Programme*, 2015
 
 ### Other
+*East European Politics* Best Article Prize (shared with Mikołaj Cześnik), 2022.
+
 Rector's Award for Scientific Achievements 2020/2021, SWPS University, 2021.
 
 Member of the selection committee for the *ECPR Joint Sessions of Workshops*, 2019. 
