@@ -67,9 +67,13 @@ Poland<br/>
 ## Publications
 
 ### Journal articles
+`2024`
+
+Claassen, C., Ackermann, K., Bertsou, E., Borba, L., Carlin, R. E., Cavari, A., Dahlum, S., Gherghina, S., Hawkins, D., Lelkes, Y., Magalhães, P. C., Mattes, R., Meijers, M. J., Neundorf, A., Oross, D., Öztürk, A., Sarsfield, R., Self, D., **Stanley, B.**, … Zechmeister, E. J., Conceptualizing and Measuring Support for Democracy: A New Approach, *Comparative Political Studies*, Online. doi: [10.1177/08883254231177416](https://doi.org/10.1177/00104140241259458)
+
 `2023`
 
-Markowski, R., Żerkowska-Balas, M. & **Stanley, B.**, Participation in Polish Local Elections: Sheer Rational Choice or Social Embeddedness Fate? *East European Politics and Societies: and Cultures*, Online. doi: [10.1177/08883254231177416](https://doi.org/10.1177/08883254231177416))
+Markowski, R., Żerkowska-Balas, M. & **Stanley, B.**, Participation in Polish Local Elections: Sheer Rational Choice or Social Embeddedness Fate? *East European Politics and Societies: and Cultures*, Online. doi: [10.1177/08883254231177416](https://doi.org/10.1177/08883254231177416)
 
 Szulecki, K., Kotnarowski, M. & **Stanley, B.**, Emigrant external voting in Central-Eastern Europe after EU enlargement. *Electoral Studies*, 81. doi: [10.1016/j.electstud.2022.102552](https://doi.org/10.1016/j.electstud.2022.102552)
 
@@ -168,10 +172,10 @@ Co-investigator, Work Packages 2 and 4, "AUTHLIB – Neo-Authoritarianisms in Eu
 `2021-2024`
 Principal investigator, "Plemienność czy obojętność? Badanie rzeczywiście istniejących wartości demokratycznych i ich konsekwencji w Polsce" ("Partisan bias or a climate of indifference? An investigation of actually-existing democratic values and their consequences in Poland"), *National Science Center, OPUS 20*, 783,228 zł.
 
+### Previous projects
+
 `2022`
 Co-investigator, "Wiedza, postawy i preferencje Polek i Polaków względem nowych zagrożeń cywilizacyjnych." ("Political knowledge and preferences of Poles regarding new civilisational threats."), *Regionalna Inicjatywa Doskonałości w SWPS Uniwersytecie Humanistycznospołecznym w latach 2019-2022*, 118,770 zł.
-
-### Previous projects
 
 `2019-2021`
 Principal investigator, "DIASPOlitic: Understanding the Political Dynamics of Émigré Communities in an Era of European Democratic Backsliding", *Norwegian Research Council, EUROPA (Europe in Transitions) A2–Values Under Pressure*, 221,880 zł.
@@ -206,8 +210,16 @@ Principal investigator, "Integration versus Demarcation? A Comparative Classific
 
 
 ### Presentations
+`2024`
+
+Liberal-democratic hypocrisy? Stability and change in Polish citizens’ attitudes towards liberal democracy. *ECPR General Conference*, Lisbon, 15 August 2024.
+
+Liberal-democratic hypocrisy? Stability and change in Polish citizens’ attitudes towards liberal democracy. *5th International ESS Conference*, Lisbon, 9 July 2024.
+
+Liberal-democratic hypocrisy? Stability and change in Polish citizens’ attitudes towards liberal democracy. *Workshop on Political Behaviour in Central and Eastern Europe*, European University Institute, Florence, 27 June 2024.
+
 `2023`
-Lip-Service Liberalism? Declared and Revealed Attitudes to Democracy in Poland. *Grassroots Unrest in Europe and the Erosion of Liberal Democracy, Illiberalism Studies Program, George Washington University*, Washington, DC, 3 November 2023.
+Lip-Service Liberalism? Declared and Revealed Attitudes to Democracy in Poland. *Grassroots Unrest in Europe and the Erosion of Liberal Democracy*, Illiberalism Studies Program, George Washington University*, Washington, DC, 3 November 2023.
 
 Polish Elections: What's Left of the Liberal Order? *Norwegian Institute of International Affairs (NUPI)*, Oslo,  29 September 2023.
 
