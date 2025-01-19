@@ -211,6 +211,7 @@ Principal investigator, "Integration versus Demarcation? A Comparative Classific
 
 ### Presentations
 `2024`
+Liberal democracy after the Good Change: the challenges of post-PiS reform in Poland. *ViPET seminar*, University of Vienna, 11 December 2024.
 
 Liberal-democratic hypocrisy? Stability and change in Polish citizens’ attitudes towards liberal democracy. *ECPR General Conference*, Lisbon, 15 August 2024.
 
