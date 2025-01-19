@@ -68,7 +68,7 @@ Poland<br/>
 
 ### Journal articles
 `2024`
-
+test here
 Claassen, C., Ackermann, K., Bertsou, E., Borba, L., Carlin, R. E., Cavari, A., Dahlum, S., Gherghina, S., Hawkins, D., Lelkes, Y., Magalhães, P. C., Mattes, R., Meijers, M. J., Neundorf, A., Oross, D., Öztürk, A., Sarsfield, R., Self, D., **Stanley, B.**, … Zechmeister, E. J., Conceptualizing and Measuring Support for Democracy: A New Approach, *Comparative Political Studies*, Online. doi: [10.1177/08883254231177416](https://doi.org/10.1177/00104140241259458)
 
 `2023`
